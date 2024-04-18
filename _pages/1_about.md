@@ -47,7 +47,6 @@ It is also important for me to have hobbies that get me out of the house and out
 
 For a full professional summary please [see my CV](https://drive.google.com/file/d/1dD4kfkNKCHcfA9JgnEpTU9Z4xMPm-bTQ/view?usp=sharing).
 
-
 **EXPERIENCE**
 * Graduate Research Assistant, Aug. 2022-Present
   - Loyola University Chicago, Argonne National Laboratory
@@ -60,9 +59,8 @@ For a full professional summary please [see my CV](https://drive.google.com/file
 * AI Research Associate, Sep. 2020-Jun. 2021.
   - U.S. Department of State
 
-
 **EDUCATION**
-* M.S. Student in Data Science, 2022—Present
+* M.S. Data Science Student, 2022—Present
   - Loyola University Chicago
 * B.S. Statistics, Honors Summa Cum Laude, 2019-2022
   - Loyola University Chicago
