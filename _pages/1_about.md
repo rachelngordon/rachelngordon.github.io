@@ -16,7 +16,9 @@ Insight Meditation practice has and continues to change my life for the better.
 -->
 #### My Story
 <!--
-**I was born in Tokyo, Japan.**  My mom was born here while my grandpa was at CalTech [^1], which enables me to be a US citizen[^2]. Balancing my Japanese roots with my American upbringing was challenging but rewarding.
+**I was born and raised in Pickerington, Ohio.**  Being just 30 minutes from Columbus, I grew up in a huge Ohio State football family
+
+My mom was born here while my grandpa was at CalTech [^1], which enables me to be a US citizen[^2]. Balancing my Japanese roots with my American upbringing was challenging but rewarding.
 
 **Grew up in Hawaii** which is a gentle, beautiful place. Blessed to have grown up there.
 
