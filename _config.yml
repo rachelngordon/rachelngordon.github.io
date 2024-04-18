@@ -1,26 +1,26 @@
-title: Sho Kawano
+title: Rachel Gordon
 logo:  # you can add own logo.
 description:
 baseurl: ""
-url: https://sho-kawano.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://rachelgordon.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Sho Kawano
+  name: Rachel Gordon
   image: '/assets/img/about.jpg'
-  job: Welcome to my page!
+  job: Hi there, welcome to my page!
   bio: |+
     <br />
-    Currently a PhD Student in Statistics at UC Santa Cruz.
+    Currently finishing my Master's in Data Science at Loyola University Chicago. 
     <br />
-    Meditator,  traveler, cook, softball player, and a bundle of energy & jokes
+    Passionate about utilizing machine learning to improve the quality and accessibility of healthcare
     <br />
-    This site is a blend of professional/personal content.
+    This site is a blend of professional and personal content.
     <br />
-  resume: https://drive.google.com/file/d/1J6aLCXWmPvK0Uocgy3uAun6HobrFwFxT/view?usp=sharing
-  email: shkawano@ucsc.edu
-  github: https://github.com/sho-kawano
+  CV: https://drive.google.com/file/d/1dD4kfkNKCHcfA9JgnEpTU9Z4xMPm-bTQ/view?usp=sharing
+  email: rachelgordon@uchicago.edu
+  github: https://github.com/rachelngordon
   last_update:  Apr 2024
 
 
@@ -33,7 +33,7 @@ author:
 #
 
 # Comment Section (Disqus)
-disqus-identifier: sho-personal # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: rachelgordon # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics

@@ -8,59 +8,46 @@ caption:
 
 ### Research Interests
 
-> If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman[^1]**
+<!-- > If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman[^1]**
 
-{% include image.html url="/assets/img/diamond_head.jpeg" description="View from Diamond Head, looking towards Hawaii Kai." %}
+ {% include image.html url="/assets/img/diamond_head.jpeg" description="View from Diamond Head, looking towards Hawaii Kai." %} 
 
 <br />
+-->
+I am broadly interested in areas of machine learning for healthcare applications, including computer vision, natural language processing (NLP), and high-performance computing (HPC).
 
-I am broadly interested in developing statistical tools for applications relevant to public policy and public health.
-More specifically I'm interested in:
-
-* Official Statistics
-* Small Area Estimation
-* Disease Mapping
-* Areal Data Modeling
-* Markov Random Field Models
-* Bayesian Methods
-
-I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
+I am advised by [Mohammed Abuhamad](https://abuhamad.cs.luc.edu/) and have completed my Master's thesis work in the field of medical image synthesis.
 
 
 ***
 
-### Teaching
+### Projects
 
-Teaching is arguably the most impactful part of my graduate training. I have especially enjoyed teaching introductory statistics.
+#### CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
 
-#### Stat 5 Curriculum Re-Development
+Implemented custom generative adversarial networks (GANs) for generating synthetic MRIs from CTs of soft tissues. Experimented with different data preprocessing methods to improve model performance, compared the results to existing state-of-the-art methods, and collaborated with clinicians to determine the clinical relevance and accuracy of the generated images. Our final model tended to outperform other current methods in terms of six quantitative metrics and visual inspection by experts in the field. Completed as my Master's thesis and submitted to IEEE Journal of Biomedical and Health Informatics.
 
-I'm currently working with [Professor Marcela Alfaro Córdoba](https://malfaro.netlify.app/) on redeveloping the curriculum for one of the intro-statistics class at UC Santa Cruz (Stat 5).  I'm excited about this work, especially since Stat 5 is a class over 1200 students take every year!
+[Paper](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view). [Code](https://github.com/rachelngordon/gancm). [PowerPoint](https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view).
 
-#### Classes TA-ed At UCSC
 
-The following are the classes I have TA-ed for.
-If you're a TA and would like access to any of my slides or materials, please contact me.
+#### Identification and Analysis of the Spread of {Mis}information on Social Media
 
-**Stat 5, Introductory Statistics**
+Collected and cleaned data from Twitter related to COVID-19 misinformation, such as anti-vaccine or related topics. Trained a BERT model on a portion of the dataset and classified the remaining data as either information or misinformation. Analyzed the resulting patterns in how the two types of content were shared and engaged with. 
 
-* [Spring 2023 with Prof. Sansó](/2023/04/03/stat5-s23)
-* [Winter 2022 with Prof. Katznelson](/2022/01/14/stat5-w22)
-* [Fall 2021 with Prof. Mendes](/2021/09/05/stat5-f21/)
+[Paper](https://link.springer.com/chapter/10.1007/978-981-97-0669-3_33). [PowerPoint](https://drive.google.com/file/d/1YLiaL5guEJzFEY-AnMdFEMOwh_-uLsaO/view).
 
-**Stat 7, Statistical Methods for Biological, Environmental, & Health Sciences**
 
-* [Fall 2022 with Prof. Katznelson](/2022/09/23/stat7-f22)
+#### Expressing Communal Joy on Social Media During Dark Times: Harnessing Natural Language Processing Methods to Characterize Linguistic Affective Data 
 
-**Stat 131, Introductory Probability**
+Collected data from Twitter from the time period of the entire COVID-19 pandemic. Performed principal component analysis (PCA), clustering, topic modeling, and other exploratory methods on the data to analyze the contexts in which joy was used as an act of communal resistance to hardship. Currently being prepared for publication.
 
-* Winter 2023 with Prof. Alfaro-Córdoba (No Section-Specific Page)
-* Summer 2023 with Prof. David Draper (No Section-Specific Page)
+[Code](https://github.com/rachelngordon/Joy-Project).
 
 ***
 
-{% include image.html url="/assets/img/garden_oaxaca.jpeg" description="Jardín Etnobotánico de Oaxaca" %}
+<!-- {% include image.html url="/assets/img/garden_oaxaca.jpeg" description="Jardín Etnobotánico de Oaxaca" %} -->
 
 
-[^1]: Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290).
+<!-- [^1]: Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290). -->
+
 *Updated: April 2024*

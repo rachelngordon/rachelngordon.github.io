@@ -9,13 +9,13 @@ caption: Me and Laura in front of Mt. Whitney in Alabama Hills.
 Skip to [short professional summary](#prof).
 
 ### Personal
-
+<!--
 I seem to always be changing but people often describe me as energetic, funny, and open. I love traveling, cooking, sports, gardening, and spending time with my partner Laura.  I try to value relationships & experiences more than stuff. I want to be remembered as someone with a big heart.
 
 Insight Meditation practice has and continues to change my life for the better.
-
+-->
 #### My Story
-
+<!--
 **I was born in Tokyo, Japan.**  My mom was born here while my grandpa was at CalTech [^1], which enables me to be a US citizen[^2]. Balancing my Japanese roots with my American upbringing was challenging but rewarding.
 
 **Grew up in Hawaii** which is a gentle, beautiful place. Blessed to have grown up there.
@@ -29,39 +29,48 @@ Insight Meditation practice has and continues to change my life for the better.
 **Back in Sacramento.** Moved back right before Covid. Worked at the State Government which made me believe in the importance of people with technical skills in civil service.
 
 **Now:**  Currently a PhD student splitting my time between Sacramento & Santa Cruz. I play meditate and play softball on my spare time.
+-->
+
+#### Hobbies
+
+I strongly believe in the importance of having hobbies and other interests outside of work, as they allow us to utilize different parts of our brain and further enrich our lives. Some of my favorites include embroidery or other crafty and creative mediums, as these allow me to work with my hands and let my mind wander. Check out my recent embroidery projects on [Instagram](https://www.instagram.com/embroiderywithrach/).
+
+I also love reading books, specifically contemporary, literary, or historical fiction, as well as memoirs, essays, philosophy, and psychology. Check out what I’ve been reading lately on [StoryGraph](https://app.thestorygraph.com/profile/rachelngordon). 
+
+It is also important for me to have hobbies that get me out of the house and out of my head. Recently, I have really enjoyed taking [boxing classes](https://www.titleboxing.com/) and attending stand-up comedy shows in Chicago.
 
 ***
 
 ### <a name="prof"></a> Short Professional Summary
 
-For a full professional summary please [see my CV](https://drive.google.com/file/d/12VrVE5jhmGrq-uZGexkedCMseZ3_rYwi/view?usp=sharing)
-or [my resume](https://drive.google.com/file/d/1J6aLCXWmPvK0Uocgy3uAun6HobrFwFxT/view?usp=sharing) .
+For a full professional summary please [see my CV](https://drive.google.com/file/d/1dD4kfkNKCHcfA9JgnEpTU9Z4xMPm-bTQ/view?usp=sharing).
 
 
 **EXPERIENCE**
-* Teaching Assistant, Sept. 2021 - Current
-  - UC Santa Cruz, Statistics Department
-* Research Data Analyst II, Oct. 2020—Jun, 2021.
-  - CA. Dept. of Healthcare Services, Local Government Financing
-* Staff Research Associate, Oct. 2019—Jul. 2020.
-  - Dept. of Atmospheric Chemistry, UC Davis
-* Data Science Intern, Aug. 2019-Nov. 2019.
-  - New Sun Road, P.B.C.
-* Quantitative Analyst, Apr. 2019-Feb. 2017.
-  - Intersect Power
+* Graduate Research Assistant, Aug. 2022-Present
+  - Loyola University Chicago, Argonne National Laboratory
+* Undergraduate Research Assistant, Oct. 2021—Aug. 2022.
+  - Loyola University Chicago
+* Python Tutor, Jan. 2022—May. 2022.
+  - Loyola University Chicago
+* Data Science Intern, Sep. 2021-May. 2022.
+  - Office of the Director of National Intelligence
+* AI Research Associate, Sep. 2020-Jun. 2021.
+  - U.S. Department of State
 
-Additional Internship experiences at SunPower Corporation and WattTime.org
 
 **EDUCATION**
-* PhD Student in Statistics,  2021—Current
-  - University of California, Santa Cruz
-  - *Passed Preliminary Exams, Sept 2022*
-* B.A. Statistics, High Honors, 2013-2017
-  - University of California, Berkeley
+* M.S. Student in Data Science, 2022—Present
+  - Loyola University Chicago
+* B.S. Statistics, Honors Summa Cum Laude, 2019-2022
+  - Loyola University Chicago
 
 **HONORS**
-* Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
-* Phi Beta Kappa & High Distinction in General Scholarship, UC Berkeley, 2017.
+* Best Paper Presentation in the Sciences, Loyola University Chicago Interdisciplinary Research Symposium, 2024.
+* Defense of M.S. Thesis with Distinction, Loyola University Chicago, 2024.
+* Father Rust. S.J. Memorial Award for outstanding achievement in mathematics and statistics courses, Department of Mathematics & Statistics at Loyola Unviersity Chicago, 2022.
+* Departmental Honors, Department of Mathematics & Statistics at Loyola Unviersity Chicago, 2022.
+* Presidential Scholar, Loyola University Chicago, 2019-2022.
 
 
 
@@ -70,5 +79,6 @@ Additional Internship experiences at SunPower Corporation and WattTime.org
 
 *Updated: Feb. 2023*
 
-[^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big inspiration for me.
+<!-- [^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big inspiration for me.
 [^2]: [Thanks to the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)
+-->
