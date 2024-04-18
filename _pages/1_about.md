@@ -2,8 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/img/laura.jpeg
-caption: Me and Laura in front of Mt. Whitney in Alabama Hills.
+image: assets/img/hanoi.jpeg
+caption: My dad and I getting dinner with friends we met in Ha Noi, Viet Nam.
 ---
 
 Skip to [short professional summary](#prof).
@@ -38,6 +38,8 @@ I strongly believe in the importance of having hobbies and other interests outsi
 I also love reading books, specifically contemporary, literary, or historical fiction, as well as memoirs, essays, philosophy, and psychology. Check out what I’ve been reading lately on [StoryGraph](https://app.thestorygraph.com/profile/rachelngordon). 
 
 It is also important for me to have hobbies that get me out of the house and out of my head. Recently, I have really enjoyed taking [boxing classes](https://www.titleboxing.com/) and attending stand-up comedy shows in Chicago.
+
+{% include image.html url="/assets/img/embroidery.jpg" description="One of my recent embroidery projects." %}
 
 ***
 
@@ -77,7 +79,7 @@ For a full professional summary please [see my CV](https://drive.google.com/file
 
 ***
 
-*Updated: Feb. 2023*
+*Updated: Apr. 2024*
 
 <!-- [^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big inspiration for me.
 [^2]: [Thanks to the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)

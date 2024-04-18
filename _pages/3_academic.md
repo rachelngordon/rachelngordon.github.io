@@ -9,11 +9,11 @@ caption:
 ### Research Interests
 
 <!-- > If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman[^1]**
-
- {% include image.html url="/assets/img/diamond_head.jpeg" description="View from Diamond Head, looking towards Hawaii Kai." %} 
+-->
+ {% include image.html url="/assets/img/arizona.jpg" description="Hiking Views in Sedona, Arizona." %}
 
 <br />
--->
+
 I am broadly interested in areas of machine learning for healthcare applications, including computer vision, natural language processing (NLP), and high-performance computing (HPC).
 
 I am advised by [Mohammed Abuhamad](https://abuhamad.cs.luc.edu/) and have completed my Master's thesis work in the field of medical image synthesis.
@@ -45,7 +45,7 @@ Collected data from Twitter from the time period of the entire COVID-19 pandemic
 
 ***
 
-<!-- {% include image.html url="/assets/img/garden_oaxaca.jpeg" description="Jardín Etnobotánico de Oaxaca" %} -->
+{% include image.html url="/assets/img/tokyo.png" description="Visiting Tsutaya Books in Tokyo, Japan." %}
 
 
 <!-- [^1]: Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290). -->
