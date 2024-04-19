@@ -1,5 +1,6 @@
 # Academic Derrick — Minimal Theme for Jekyll
 
+This was forked from the original creator who developed this theme from the Derrick theme. You can see a description of their changes below. I simply removed the posts page and added my own content:
 
 Derrick is a clean minimal and fast theme for a personal blog. See the original repo for full details.
 
