@@ -9,8 +9,6 @@ caption: Hiking Views in Sedona, Arizona
 ### Research Interests
 
 <!-- > If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman[^1]**
-
- {% include image.html url="/assets/img/arizona.jpg" description="Hiking Views in Sedona, Arizona." %}
 -->
 
 
