@@ -10,7 +10,8 @@ Skip to [short professional summary](#prof).
 
 ### Personal
 
-I am passionate about learning new things, questioning my perceptions of the world, and building meaningful connections. My core values include curiosity, creativity, and connection (love the alliteration), and I strive to incorporate these things into all that I do. 
+I am passionate about learning new things, questioning my perceptions of the world, and building meaningful connections. 
+<!-- My core values include curiosity, creativity, and connection (love the alliteration), and I strive to incorporate these things into all that I do. -->
 
 Things that excite me on a daily basis include trying new foods, playing with my cats, traveling, reading, making things, laughing at stupid jokes, playing board games, and spending time with friends and family.
 
@@ -21,7 +22,7 @@ Things that excite me on a daily basis include trying new foods, playing with my
 
 Being just 30 minutes from Columbus, I grew up in a huge Ohio State football family and my grandparents regularly hosted football parties in their OSU-themed basement (although I cared more about the food than the game 😃).
 
-I grew up doing things like Taekwondo and volleyball, and have always found joy in starting my own creative projects such as journaling or creating short videos. In high school, I started a math tutoring business and decided to make [animated educational videos](https://www.youtube.com/@rachelgordon2514/videos) as well.
+I grew up doing things like Taekwondo and volleyball, and have always found joy in starting my own creative projects. In high school, I started a math tutoring business and decided to make [animated educational videos](https://www.youtube.com/@rachelgordon2514/videos) as well.
 
 Although I loved where I grew up, I always knew I wanted to move to a city eventually...
 
@@ -36,22 +37,24 @@ I majored in Statistics at Loyola University Chicago and met some of my best fri
 
 This project has furthered my love for data science by allowing me to learn about fields outside of my own and by showing me the impact this work can have on the accessibility of healthcare.
 
-Throughout my time in this program, I also had the opportunity to travel to a conference in Ha Noi, Viet Nam, which is an experience I am incredibly grateful for and will cherish forever.
+<!--During the program, I also had the opportunity to travel to a conference in Ha Noi, Viet Nam, which is an experience I am incredibly grateful for and will cherish forever.-->
 
 **Upcoming Life Transitions.** 
 
-Although a year ago I was set on going into industry after completing my degree, I have gained significantly more clarity through conversations with mentors and experts in my desired field. 
+Although a year ago I was set on going into industry after completing my degree, I have gained clarity on my goals and next steps through conversations with mentors and experts in my desired field. 
 
-This summer, I'll be moving out of Rogers Park and preparing to start pursuing my PhD in Computer Science at the University of Chicago. I will also be taking a trip to Italy over the summer and I can't wait to continue exploring, learning, and growing.
+This summer, I'll be moving out of Rogers Park and preparing to pursue my PhD in Computer Science at [University of Chicago](https://www.uchicago.edu/en). I'll also be taking a trip to Italy over the summer and I can't wait to continue exploring, learning, and growing.
 
 
 #### Hobbies
 
-I strongly believe in the importance of having hobbies and other interests outside of work, as they allow us to utilize different parts of our brain and further enrich our lives. Some of my favorites include embroidery or other crafty and creative mediums, as these allow me to work with my hands and let my mind wander. Check out my recent embroidery projects on [Instagram](https://www.instagram.com/embroiderywithrach/).
+<!--I strongly believe in the importance of having hobbies and other interests outside of work, as they allow us to utilize different parts of our brain and further enrich our lives. -->
+Some of my favorite hobbies outside of work include embroidery or other crafty and creative mediums, as these allow me to work with my hands and let my mind wander. Check out my recent embroidery projects on [Instagram](https://www.instagram.com/embroiderywithrach/).
 
 I also love reading books, specifically contemporary, literary, or historical fiction, as well as memoirs, essays, philosophy, and psychology. Check out what I’ve been reading lately on [StoryGraph](https://app.thestorygraph.com/profile/rachelngordon). 
 
-It is also important for me to have hobbies that get me out of the house and out of my head. Recently, I have really enjoyed taking [boxing classes](https://www.titleboxing.com/) and attending stand-up comedy shows in Chicago.
+<!--It is also important for me to have hobbies that get me out of the house and out of my head.-->
+Recently, I have also enjoyed taking [boxing classes](https://www.titleboxing.com/) and attending stand-up comedy shows.
 
 {% include image.html url="/assets/img/embroidery.jpg" description="One of my recent embroidery projects" %}
 
