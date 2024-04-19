@@ -79,7 +79,7 @@ For a full professional summary please [see my CV](https://drive.google.com/file
 
 ***
 
-*Updated: Apr. 2024*
+<!-- *Updated: Apr. 2024* -->
 
 <!-- [^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big inspiration for me.
 [^2]: [Thanks to the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)

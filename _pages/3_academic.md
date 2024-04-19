@@ -49,4 +49,4 @@ Collected data from Twitter from the time period of the entire COVID-19 pandemic
 
 <!-- [^1]: Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290). -->
 
-*Updated: April 2024*
+<!-- *Updated: April 2024* -->
