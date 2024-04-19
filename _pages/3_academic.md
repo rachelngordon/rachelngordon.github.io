@@ -8,12 +8,6 @@ caption: Hiking Views in Sedona, Arizona
 
 ### Research Interests
 
-<!-- > If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman[^1]**
--->
-
-
-<br />
-
 I am broadly interested in areas of machine learning for healthcare applications, including computer vision, natural language processing (NLP), and high-performance computing (HPC).
 
 I am currently advised by [Mohammed Abuhamad](https://abuhamad.cs.luc.edu/) and have completed my [Master's thesis](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view) work in the field of medical image synthesis.
