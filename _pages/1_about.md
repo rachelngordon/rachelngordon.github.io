@@ -35,7 +35,7 @@ I majored in Statistics at Loyola University Chicago and met some of my best fri
 
 **I started my Master's program in 2022** and started work on my thesis. 
 
-This project furthered my love for data science by allowing me to learn about fields outside my own and by showing me the impact this work can have on the accessibility of healthcare.
+This project furthered my love for data science by allowing me to learn about fields outside my own and by showing me the impact this work can have on healthcare as a whole.
 
 <!--During the program, I also had the opportunity to travel to a conference in Ha Noi, Viet Nam, which is an experience I am incredibly grateful for and will cherish forever.-->
 
