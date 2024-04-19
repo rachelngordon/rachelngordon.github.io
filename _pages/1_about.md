@@ -13,7 +13,7 @@ Skip to [short professional summary](#prof).
 I am passionate about learning new things, questioning my perceptions of the world, and building meaningful connections. 
 <!-- My core values include curiosity, creativity, and connection (love the alliteration), and I strive to incorporate these things into all that I do. -->
 
-Things that excite me on a daily basis include trying new foods, playing with my cats, traveling, making things, laughing at stupid jokes, playing board games, and spending time with friends and family.
+Things that excite me on a daily basis include trying new foods, playing with my cats, traveling, making things, playing board games, and spending time laughing with friends and family.
 
 
 #### My Story
