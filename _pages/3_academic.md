@@ -43,7 +43,7 @@ Collected data from Twitter from the time period of the entire COVID-19 pandemic
 
 ***
 
-{% include image.html url="/assets/img/tokyo.png" description="Visiting Tsutaya Books in Tokyo, Japan." %}
+{% include image.html url="/assets/img/tokyo.jpg" description="Visiting Tsutaya Books in Tokyo, Japan." %}
 
 
 <!-- [^1]: Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290). -->
