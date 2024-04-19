@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 image: /assets/img/hanoi.jpg
-caption: My dad and I getting dinner with some friends we met in Ha Noi, Viet Nam.
+caption: My dad and I getting dinner with some friends we met while attending a conference in Ha Noi, Viet Nam.
 ---
 
 Skip to [short professional summary](#prof).
