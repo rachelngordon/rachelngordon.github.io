@@ -2,8 +2,8 @@
 layout: page
 title: Academic
 permalink: /academic/
-image:
-caption:
+image: /assets/img/arizona.jpg
+caption: Hiking Views in Sedona, Arizona
 ---
 
 ### Research Interests
@@ -17,15 +17,15 @@ caption:
 I am broadly interested in areas of machine learning for healthcare applications, including computer vision, natural language processing (NLP), and high-performance computing (HPC).
 
 I am advised by [Mohammed Abuhamad](https://abuhamad.cs.luc.edu/) and have completed my Master's thesis work in the field of medical image synthesis.
-***
+
 
 ### Projects
 
 #### CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
 
-Implemented custom generative adversarial networks (GANs) for generating synthetic MRIs from CTs of soft tissues. Experimented with different data preprocessing methods to improve model performance, compared the results to existing state-of-the-art methods, and collaborated with clinicians to determine the clinical relevance and accuracy of the generated images. Our final model tended to outperform other current methods in terms of six quantitative metrics and visual inspection by experts in the field. Completed as my Master's thesis and submitted to IEEE Journal of Biomedical and Health Informatics.
+Implemented custom generative adversarial networks (GANs) for generating synthetic MRIs from CTs of soft tissues. Experimented with different data preprocessing methods to improve model performance, compared the results to existing state-of-the-art methods, and collaborated with clinicians to determine the clinical relevance and accuracy of the generated images. Our final model tended to outperform other current methods in terms of six quantitative metrics and visual inspection by experts in the field. Completed as my Master's thesis and submitted to IEEE Journal of Biomedical and Health Informatics (currently under review).
 
-[Paper](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view)  [Code](https://github.com/rachelngordon/gancm)  [PowerPoint](https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view).
+[Paper](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view)  [Code](https://github.com/rachelngordon/gancm)  [PowerPoint](https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view)
 
 
 #### Identification and Analysis of the Spread of {Mis}information on Social Media
