@@ -20,7 +20,7 @@ Things that excite me on a daily basis include trying new foods, playing with my
 
 **I was born and raised in Pickerington, Ohio.**  
 
-Being just 30 minutes from Columbus, I grew up in a huge Ohio State football family and my grandparents regularly hosted football parties in their OSU-themed basement (although I cared more about the food than the game 😃).
+Being just 30 minutes from Columbus, I grew up in a huge Ohio State football family and my grandparents regularly hosted football parties in their OSU-themed basement (although I definitely cared more about the food than the game 😃).
 
 I grew up doing things like Taekwondo and volleyball, and have always found joy in starting my own creative projects. In high school, I started a math tutoring business and decided to make [animated educational videos](https://www.youtube.com/@rachelgordon2514/videos) as well.
 
