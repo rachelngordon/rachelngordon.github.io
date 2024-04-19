@@ -48,8 +48,7 @@ In the coming months, I'll be moving out of Rogers Park and preparing to pursue 
 
 #### Hobbies
 
-<!--I strongly believe in the importance of having hobbies and other interests outside of work, as they allow us to utilize different parts of our brain and further enrich our lives. -->
-Some of my favorite hobbies outside of work include [embroidery](https://www.instagram.com/embroiderywithrach/) or other crafty and creative mediums, as these allow me to work with my hands and let my mind wander. <!--Check out my recent embroidery projects on [Instagram](https://www.instagram.com/embroiderywithrach/). -->
+I strongly believe in the importance of having hobbies and other interests outside of work, as they allow us to utilize different parts of our brain and further enrich our lives. Some of my favorite hobbies include [embroidery](https://www.instagram.com/embroiderywithrach/) or other crafty and creative mediums, as these allow me to work with my hands and let my mind wander. <!--Check out my recent embroidery projects on [Instagram](https://www.instagram.com/embroiderywithrach/). -->
 
 I also love [reading books](https://app.thestorygraph.com/profile/rachelngordon), specifically contemporary, literary, or historical fiction, as well as memoirs, essays, philosophy, and psychology. <!--Check out what I’ve been reading lately on [StoryGraph](https://app.thestorygraph.com/profile/rachelngordon). -->
 
