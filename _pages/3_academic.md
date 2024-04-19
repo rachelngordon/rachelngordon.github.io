@@ -16,7 +16,7 @@ caption: Hiking Views in Sedona, Arizona
 
 I am broadly interested in areas of machine learning for healthcare applications, including computer vision, natural language processing (NLP), and high-performance computing (HPC).
 
-I am advised by [Mohammed Abuhamad](https://abuhamad.cs.luc.edu/) and have completed my Master's thesis work in the field of medical image synthesis.
+I am currently advised by [Mohammed Abuhamad](https://abuhamad.cs.luc.edu/) and have completed my Master's thesis work in the field of medical image synthesis.
 
 
 ### Projects
