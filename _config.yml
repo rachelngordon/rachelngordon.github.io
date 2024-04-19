@@ -12,7 +12,7 @@ author:
   job: Hi there, welcome to my page!
   bio: |+
     <br />
-    I am currently finishing my Master's in Data Science at [Loyola University Chicago](https://www.luc.edu/) and preparing to start my PhD at University of Chicago. 
+    I am currently finishing my Master's in Data Science at <a href="https://www.luc.edu">Loyola University Chicago</a> and preparing to start my PhD at University of Chicago. 
     <br />
     I'm passionate about utilizing machine learning to improve the quality and accessibility of healthcare.
     <br />
