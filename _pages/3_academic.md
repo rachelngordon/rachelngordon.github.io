@@ -20,14 +20,14 @@ I am currently advised by [Mohammed Abuhamad](https://abuhamad.cs.luc.edu/) and 
 
 Implemented custom generative adversarial networks (GANs) for generating synthetic MRIs from CTs of soft tissues. Experimented with different data preprocessing methods to improve model performance, compared the results to existing state-of-the-art methods, and collaborated with clinicians to determine the clinical relevance and accuracy of the generated images. Our final model tended to outperform other current methods in terms of six quantitative metrics and visual inspection by experts in the field. Completed as my Master's thesis and submitted to IEEE Journal of Biomedical and Health Informatics (currently under review).
 
-[Paper](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view)  [Code](https://github.com/rachelngordon/gancm)  [PowerPoint](https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view)
+[Paper](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view)   [Code](https://github.com/rachelngordon/gancm)   [PowerPoint](https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view)
 
 
 #### Identification and Analysis of the Spread of {Mis}information on Social Media
 
 Collected and cleaned data from Twitter related to COVID-19 misinformation, such as anti-vaccine or related topics. Trained a BERT model on a portion of the dataset and classified the remaining data as either information or misinformation. Analyzed the resulting patterns in how the two types of content were shared and engaged with. 
 
-[Paper](https://link.springer.com/chapter/10.1007/978-981-97-0669-3_33)  [PowerPoint](https://drive.google.com/file/d/1YLiaL5guEJzFEY-AnMdFEMOwh_-uLsaO/view)
+[Paper](https://link.springer.com/chapter/10.1007/978-981-97-0669-3_33)   [PowerPoint](https://drive.google.com/file/d/1YLiaL5guEJzFEY-AnMdFEMOwh_-uLsaO/view)
 
 
 #### Expressing Communal Joy on Social Media During Dark Times: Harnessing Natural Language Processing Methods to Characterize Linguistic Affective Data 
