@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 image: /assets/img/hanoi.jpg
-caption: My dad and I getting dinner with some friends we met in Ha Noi, Viet Nam.
+caption: My dad and I getting dinner with some friends we met in Ha Noi, Viet Nam
 ---
 
 Skip to [short professional summary](#prof).
@@ -41,7 +41,7 @@ I also love reading books, specifically contemporary, literary, or historical fi
 
 It is also important for me to have hobbies that get me out of the house and out of my head. Recently, I have really enjoyed taking [boxing classes](https://www.titleboxing.com/) and attending stand-up comedy shows in Chicago.
 
-{% include image.html url="/assets/img/embroidery.jpg" description="One of my recent embroidery projects." %}
+{% include image.html url="/assets/img/embroidery.jpg" description="One of my recent embroidery projects" %}
 
 ***
 
