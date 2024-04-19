@@ -9,29 +9,38 @@ caption: My dad and I getting dinner with some friends we met in Ha Noi, Viet Na
 Skip to [short professional summary](#prof).
 
 ### Personal
-<!--
-I seem to always be changing but people often describe me as energetic, funny, and open. I love traveling, cooking, sports, gardening, and spending time with my partner Laura.  I try to value relationships & experiences more than stuff. I want to be remembered as someone with a big heart.
 
-Insight Meditation practice has and continues to change my life for the better.
--->
+I am passionate about learning new things, questioning my perceptions of the world, and building meaningful connections. My core values include curiosity, creativity, and connection (love the alliteration haha), and I strive to incorporate these things into all that I do. 
+
+Things that excite me on a daily basis include trying new foods, playing with my cats, traveling, reading, making things, laughing at stupid jokes, and spending time being present with others.
+
+
 #### My Story
-<!--
-**I was born and raised in Pickerington, Ohio.**  Being just 30 minutes from Columbus, I grew up in a huge Ohio State football family
 
-My mom was born here while my grandpa was at CalTech [^1], which enables me to be a US citizen[^2]. Balancing my Japanese roots with my American upbringing was challenging but rewarding.
+**I was born and raised in Pickerington, Ohio.**  Being just 30 minutes from Columbus, I grew up in a huge Ohio State football family and my gradnparents regularly hosted football parties in their OSU-themed basement (although I mainly just cared about the food).
 
-**Grew up in Hawaii** which is a gentle, beautiful place. Blessed to have grown up there.
+I grew up doing things like Tae Kwon Do and volleyball, and have always found joy in starting my own creative projects such as journaling or creating short videos. In high school, I started a math tutoring business and decided to make animated educational videos as well.
 
-**Moved to Northern California in 2008.** I went to a hippy-arts type of High School in Sacramento. I played sports & loved doing theatre. I also love Sac!
+Although I loved where I grew up, I always knew I wanted to move to a city eventually, which was solidifed further when my mom and I took a trip to New York City when I was 16.
 
-**UC Berkeley / East Bay.** At Berkeley, I was mostly interested in clean energy (statistics was a secondary interest).  After college, I worked for a major solar energy developer.
+**Moved to Chicago for school in 2019** and fell in love with this city. I am so grateful to call this place home.
 
-**Big Changes.** In 2019, let go from what I thought was my dream job. I went on an amazing trip to SE Asia. I also began dating Laura & started to seriously meditate: these three things I think have been the best things that have ever happened to me.
+I majored in Statistics at Loyola University Chicago and met some of my best friends, including my partner Stephen. Although it was difficult navigating college during the pandemic, I still made wonderful memories and discovered so much about myself and the things I value.
 
-**Back in Sacramento.** Moved back right before Covid. Worked at the State Government which made me believe in the importance of people with technical skills in civil service.
+Stephen and I celebrating our graduation in 2022
 
-**Now:**  Currently a PhD student splitting my time between Sacramento & Santa Cruz. I play meditate and play softball on my spare time.
--->
+**Started my Master's program in 2022** and started working on my thesis. 
+
+This project has furthered my love for data science by allowing me to learn about fields outside of my own, such as radiation and oncology, and by showing me the impact this work can have on the accessibility of healthcare.
+
+Throughout my time in this program, I also had the opportunity to travel to a conference in Ha Noi, Viet Nam, which is an experience I am incredibly grateful for and will cherish forever.
+
+**Life Transitions.** 
+
+Although a year ago I was set on going into industry after completing my degree, I have gained significantly more clarity through conversations with mentors and experts in my desired field. 
+
+This summer, I'll be moving out of Rogers Park and preparing to start pursuing my PhD in Computer Science at the University of Chicago. I will also be taking a trip to Italy over the summer and I can't wait to continue exploring, learning, and growing.
+
 
 #### Hobbies
 
