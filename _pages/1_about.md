@@ -33,7 +33,7 @@ I majored in Statistics at Loyola University Chicago and met some of my best fri
 {% include image.html url="/assets/img/graduation.jpg" description="Stephen and I celebrating our graduation in 2022" %}
 
 
-**Started my Master's program in 2022** and started working on my thesis. 
+**I started my Master's program in 2022** and started work on my thesis. 
 
 This project has furthered my love for data science by allowing me to learn about fields outside of my own and by showing me the impact this work can have on the accessibility of healthcare.
 
