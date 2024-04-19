@@ -43,7 +43,7 @@ This project furthered my love for data science by allowing me to learn about fi
 
 Although a year ago I was set on going into industry after completing my degree, I have gained clarity on my goals and next steps through conversations with mentors and experts in my desired field. 
 
-This summer, I'll be moving out of Rogers Park and preparing to pursue my PhD in Computer Science at the [University of Chicago](https://www.uchicago.edu/en). I'll also be taking a trip to Italy over the summer and I can't wait to continue exploring, learning, and growing in all areas.
+In the coming months, I'll be moving out of Rogers Park and preparing to pursue my PhD in Computer Science at the [University of Chicago](https://www.uchicago.edu/en). 
 
 
 #### Hobbies
