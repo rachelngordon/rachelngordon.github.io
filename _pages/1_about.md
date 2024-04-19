@@ -10,32 +10,35 @@ Skip to [short professional summary](#prof).
 
 ### Personal
 
-I am passionate about learning new things, questioning my perceptions of the world, and building meaningful connections. My core values include curiosity, creativity, and connection (love the alliteration haha), and I strive to incorporate these things into all that I do. 
+I am passionate about learning new things, questioning my perceptions of the world, and building meaningful connections. My core values include curiosity, creativity, and connection (love the alliteration), and I strive to incorporate these things into all that I do. 
 
-Things that excite me on a daily basis include trying new foods, playing with my cats, traveling, reading, making things, laughing at stupid jokes, and spending time being present with others.
+Things that excite me on a daily basis include trying new foods, playing with my cats, traveling, reading, making things, laughing at stupid jokes, playing board games, and spending time with friends and family.
 
 
 #### My Story
 
-**I was born and raised in Pickerington, Ohio.**  Being just 30 minutes from Columbus, I grew up in a huge Ohio State football family and my gradnparents regularly hosted football parties in their OSU-themed basement (although I mainly just cared about the food).
+**I was born and raised in Pickerington, Ohio.**  
 
-I grew up doing things like Tae Kwon Do and volleyball, and have always found joy in starting my own creative projects such as journaling or creating short videos. In high school, I started a math tutoring business and decided to make animated educational videos as well.
+Being just 30 minutes from Columbus, I grew up in a huge Ohio State football family and my grandparents regularly hosted football parties in their OSU-themed basement (although I mainly just cared about the food 😃).
 
-Although I loved where I grew up, I always knew I wanted to move to a city eventually, which was solidifed further when my mom and I took a trip to New York City when I was 16.
+I grew up doing things like Taekwondo and volleyball, and have always found joy in starting my own creative projects such as journaling or creating short videos. In high school, I started a math tutoring business and decided to make [animated educational videos](https://www.youtube.com/@rachelgordon2514/videos) as well.
 
-**Moved to Chicago for school in 2019** and fell in love with this city. I am so grateful to call this place home.
+Although I loved where I grew up, I always knew I wanted to move to a city eventually. This idea was further solidifed when my mom and I took a trip to New York City.
 
-I majored in Statistics at Loyola University Chicago and met some of my best friends, including my partner Stephen. Although it was difficult navigating college during the pandemic, I still made wonderful memories and discovered so much about myself and the things I value.
+**Moved to Chicago for school in 2019** and fell in love with this city. I'm so grateful to call this place home.
 
-Stephen and I celebrating our graduation in 2022
+I majored in Statistics at Loyola University Chicago and met some of my best friends, including my partner Stephen.
+
+{% include image.html url="/assets/img/graduation.jpg" description="Stephen and I celebrating our graduation in 2022" %}
+
 
 **Started my Master's program in 2022** and started working on my thesis. 
 
-This project has furthered my love for data science by allowing me to learn about fields outside of my own, such as radiation and oncology, and by showing me the impact this work can have on the accessibility of healthcare.
+This project has furthered my love for data science by allowing me to learn about fields outside of my own and by showing me the impact this work can have on the accessibility of healthcare.
 
 Throughout my time in this program, I also had the opportunity to travel to a conference in Ha Noi, Viet Nam, which is an experience I am incredibly grateful for and will cherish forever.
 
-**Life Transitions.** 
+**Upcoming Life Transitions.** 
 
 Although a year ago I was set on going into industry after completing my degree, I have gained significantly more clarity through conversations with mentors and experts in my desired field. 
 
