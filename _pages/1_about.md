@@ -48,12 +48,12 @@ In the coming months, I'll be moving out of Rogers Park and preparing to pursue 
 
 #### Hobbies
 
-I strongly believe in the importance of having hobbies and other interests outside of work, as they allow us to utilize different parts of our brain and further enrich our lives. 
+I strongly believe in the importance of having hobbies and other interests outside of work, as they allow us to utilize different parts of our brain and further enrich our lives. Some of my favorite hobbies include [embroidery](https://www.instagram.com/embroiderywithrach/) or other crafty and creative mediums, as these allow me to work with my hands and let my mind wander. <!--Check out my recent embroidery projects on [Instagram](https://www.instagram.com/embroiderywithrach/). --> 
 
-Some of my favorite hobbies include [embroidery](https://www.instagram.com/embroiderywithrach/) or other crafty and creative mediums, as these allow me to work with my hands and let my mind wander. <!--Check out my recent embroidery projects on [Instagram](https://www.instagram.com/embroiderywithrach/). --> I also love [reading books](https://app.thestorygraph.com/profile/rachelngordon), specifically contemporary, literary, or historical fiction, as well as memoirs, essays, philosophy, and psychology. <!--Check out what I’ve been reading lately on [StoryGraph](https://app.thestorygraph.com/profile/rachelngordon). -->
+I also love [reading books](https://app.thestorygraph.com/profile/rachelngordon), specifically contemporary, literary, or historical fiction, as well as memoirs, essays, philosophy, and psychology. <!--Check out what I’ve been reading lately on [StoryGraph](https://app.thestorygraph.com/profile/rachelngordon). -->
 
 <!--It is also important for me to have hobbies that get me out of the house and out of my head.-->
-Recently, I have also enjoyed taking [boxing classes](https://www.titleboxing.com/) and attending stand-up comedy shows.
+Recently, I have enjoyed taking [boxing classes](https://www.titleboxing.com/) and attending stand-up comedy shows.
 
 {% include image.html url="/assets/img/embroidery.jpg" description="One of my recent embroidery projects" %}
 
