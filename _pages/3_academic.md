@@ -10,7 +10,9 @@ caption: Hiking Views in Sedona, Arizona
 
 I am broadly interested in areas of machine learning for healthcare applications, including computer vision, natural language processing (NLP), and high-performance computing (HPC).
 
-I am currently advised by [Mohammed Abuhamad](https://abuhamad.cs.luc.edu/) and have completed my [Master's thesis](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view) work in the field of medical image synthesis.
+I completed my [Master's thesis](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view) work in the field of medical image synthesis under the supervision of [Mohammed Abuhamad](https://abuhamad.cs.luc.edu/) and [Dr. Hyejoo Kang](https://ssom.luc.edu/radiation-oncology/faculty/profile/index.cfm?id=6150).
+
+I will begin my PhD program in the Fall, working with [Globus Labs](https://labs.globus.org/) under the supervision of [Kyle Chard](https://kylechard.com/) and [Ian Foster](https://cs.uchicago.edu/people/ian-foster/).
 
 ***
 
