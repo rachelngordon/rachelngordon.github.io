@@ -26,7 +26,7 @@ I grew up doing things like Taekwondo and volleyball, and have always found joy 
 
 Although I loved where I grew up, I always knew I wanted to move to a city eventually...
 
-**Moved to Chicago for school in 2019** and fell in love with this city. I'm so grateful to call this place home.
+**I moved to Chicago for school in 2019** and fell in love with the city. I'm so grateful to call this place home.
 
 I majored in Statistics at Loyola University Chicago and met some of my best friends, including my partner Stephen.
 
