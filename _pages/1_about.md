@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: assets/img/hanoi.jpeg
+image: /assets/img/hanoi.jpg
 caption: My dad and I getting dinner with friends we met in Ha Noi, Viet Nam.
 ---
 
