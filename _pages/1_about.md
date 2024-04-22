@@ -13,7 +13,7 @@ Skip to [short professional summary](#prof).
 I am passionate about learning new things, questioning my perceptions of the world, and building meaningful connections. 
 <!-- My core values include curiosity, creativity, and connection (love the alliteration), and I strive to incorporate these things into all that I do. -->
 
-Things that excite me on a daily basis include trying new foods, playing with my cats, traveling, making things, playing board games, and spending time laughing with friends and family.
+Things that excite me on a daily basis include trying new foods, traveling, playing with my cat, making crafts, playing board games, and spending time laughing with friends and family.
 
 
 #### My Story
@@ -22,7 +22,7 @@ Things that excite me on a daily basis include trying new foods, playing with my
 
 <!--Being just 30 minutes from Columbus, I grew up in a huge Ohio State football family who regularly hosted football parties (although I definitely cared more about the food than the game 😃).-->
 
-I grew up doing things like Taekwondo and volleyball, and have always found joy in starting my own creative projects. In high school, I started a math tutoring business and made [animated educational videos](https://www.youtube.com/@rachelgordon2514/videos).
+I grew up doing things like Taekwondo and volleyball, and have always found joy in starting my own creative projects. In high school, I also started a math tutoring business and made [animated educational videos](https://www.youtube.com/@rachelgordon2514/videos).
 
 <!--Although I loved where I grew up, I always knew I wanted to move to a city eventually...-->
 
@@ -33,7 +33,7 @@ I majored in Statistics at Loyola University Chicago and met some of my best fri
 {% include image.html url="/assets/img/graduation.jpg" description="Stephen and I celebrating our graduation in 2022" %}
 
 
-**I started my Master's program in 2022** and started working on my thesis. 
+**I started my Master's program in 2022** and started working on my [thesis](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view), which was focused on medical image synthesis.
 
 This project furthered my love for data science by allowing me to learn about fields outside my own and by showing me the impact this work can have on healthcare as a whole.
 
@@ -53,7 +53,7 @@ I strongly believe in the importance of having hobbies and other interests outsi
 I also love [reading books](https://app.thestorygraph.com/profile/rachelngordon), specifically contemporary, literary, or historical fiction, as well as memoirs, essays, philosophy, and psychology. <!--Check out what I’ve been reading lately on [StoryGraph](https://app.thestorygraph.com/profile/rachelngordon). -->
 
 <!--It is also important for me to have hobbies that get me out of the house and out of my head.-->
-Recently, I have enjoyed taking [boxing classes](https://www.titleboxing.com/) and attending stand-up comedy shows.
+Recently, I have enjoyed taking [boxing classes](https://www.titleboxing.com/) and attending stand-up comedy shows as well.
 
 {% include image.html url="/assets/img/embroidery.jpg" description="One of my recent embroidery projects" %}
 
