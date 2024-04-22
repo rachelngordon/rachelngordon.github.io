@@ -33,7 +33,7 @@ I majored in Statistics at Loyola University Chicago and met some of my best fri
 {% include image.html url="/assets/img/graduation.jpg" description="Stephen and I celebrating our graduation in 2022" %}
 
 
-**I started my Master's program in 2022** and started working on my [thesis](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view), which was focused on medical image synthesis.
+**I started my Master's program in 2022** and started working on my [thesis](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view), which was focused on CT-to-MRI translation.
 
 This project furthered my love for data science by allowing me to learn about fields outside my own and by showing me the impact this work can have on healthcare as a whole.
 
