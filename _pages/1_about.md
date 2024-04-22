@@ -39,7 +39,7 @@ This project furthered my love for data science by allowing me to learn about fi
 
 <!--During the program, I also had the opportunity to travel to a conference in Ha Noi, Viet Nam, which is an experience I am incredibly grateful for and will cherish forever.-->
 
-**Upcoming Life Transitions.** 
+**Upcoming Life Transitions:** 
 
 Although a year ago I was set on going into industry after completing my degree, I have gained clarity on my goals and next steps through conversations with mentors and experts in my desired field. 
 
