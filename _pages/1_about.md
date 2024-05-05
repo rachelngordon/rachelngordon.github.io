@@ -13,7 +13,7 @@ Skip to [short professional summary](#prof).
 I am passionate about learning new things, questioning my perceptions of the world, and building meaningful connections. 
 <!-- My core values include curiosity, creativity, and connection (love the alliteration), and I strive to incorporate these things into all that I do. -->
 
-Things that excite me on a daily basis include trying new foods, traveling, playing with my cat, making crafts, playing board games, and spending time laughing with friends and family.
+Things that excite me on a daily basis include trying new foods, traveling, playing with my cat, working on creative projects, and spending time laughing with friends and family.
 
 
 #### My Story
@@ -22,7 +22,7 @@ Things that excite me on a daily basis include trying new foods, traveling, play
 
 <!--Being just 30 minutes from Columbus, I grew up in a huge Ohio State football family who regularly hosted football parties (although I definitely cared more about the food than the game 😃).-->
 
-I grew up doing things like Taekwondo and volleyball, and have always found joy in starting my own creative projects. In high school, I also started a math tutoring business and made [animated educational videos](https://www.youtube.com/@rachelgordon2514/videos).
+I grew up doing things like Taekwondo and volleyball, and have always found joy in starting my own side projects. In high school, I also started a math tutoring business and made [animated educational videos](https://www.youtube.com/@rachelgordon2514/videos).
 
 <!--Although I loved where I grew up, I always knew I wanted to move to a city eventually...-->
 
@@ -64,7 +64,7 @@ Recently, I have enjoyed taking [boxing classes](https://www.titleboxing.com/) a
 For a full professional summary please [see my CV](https://drive.google.com/file/d/1dD4kfkNKCHcfA9JgnEpTU9Z4xMPm-bTQ/view?usp=sharing).
 
 **EXPERIENCE**
-* Graduate Research Assistant, Aug. 2022-Present
+* Graduate Research Assistant, Aug. 2022-May. 2024
   - Loyola University Chicago, Argonne National Laboratory
 * Undergraduate Research Assistant, Oct. 2021—Aug. 2022.
   - Loyola University Chicago
@@ -76,7 +76,7 @@ For a full professional summary please [see my CV](https://drive.google.com/file
   - U.S. Department of State
 
 **EDUCATION**
-* M.S. Data Science Student, 2022—Present
+* M.S. Data Science Student, 2022—2024
   - Loyola University Chicago
 * B.S. Statistics, Honors Summa Cum Laude, 2019-2022
   - Loyola University Chicago
