@@ -67,7 +67,7 @@ Master's Thesis, Loyola University Chicago, 2024.
   }
 </script>
 
-[Paper](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view)   [Code](https://github.com/rachelngordon/gancm)   [PowerPoint](https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view)
+[Paper](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view)  |  [Code](https://github.com/rachelngordon/gancm)  |  [PowerPoint](https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view)
 
 
 #### Identification and Analysis of the Spread of {Mis}information on Social Media. 
