@@ -13,7 +13,7 @@ For a full professional summary please see [my CV](https://drive.google.com/file
 **EXPERIENCE**
 * Graduate Research Assistant, Aug. 2024-Present
   - University of Chicago
-* [Graduate Women in Computer Science (GWiCS)](https://cs.uchicago.edu/diversity/women-in-computing/) co-chair, Sep. 2024-Present
+* [Graduate Women in Computer Science](https://cs.uchicago.edu/diversity/women-in-computing/) co-chair, Sep. 2024-Present
   - University of Chicago
 * Graduate Research Assistant, Aug. 2022-May. 2024
   - Loyola University Chicago, [Argonne National Laboratory](https://www.anl.gov/)
