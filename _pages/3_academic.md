@@ -8,10 +8,12 @@ caption: Attending the 2024 Grace Hopper Celebration with some fellow students f
 
 ### <a name="prof"></a> Short Professional Summary
 
-For a full professional summary please [see my CV](https://drive.google.com/file/d/1dD4kfkNKCHcfA9JgnEpTU9Z4xMPm-bTQ/view?usp=sharing).
+For a full professional summary please see [my CV](https://drive.google.com/file/d/1dD4kfkNKCHcfA9JgnEpTU9Z4xMPm-bTQ/view?usp=sharing).
 
 **EXPERIENCE**
 * Graduate Research Assistant, Aug. 2024-Present
+  - University of Chicago
+* [Graduate Women in Computer Science (GWiCS)](https://cs.uchicago.edu/diversity/women-in-computing/) co-chair, Sep. 2024-Present
   - University of Chicago
 * Graduate Research Assistant, Aug. 2022-May. 2024
   - Loyola University Chicago, [Argonne National Laboratory](https://www.anl.gov/)
