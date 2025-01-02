@@ -50,6 +50,13 @@ For a full professional summary please see [my CV](https://drive.google.com/file
 <u>Rachel Gordon</u>, Hyejoo Kang, Alexander R. Podgorsak, Mohammed Abuhamad.
 Master's Thesis, Loyola University Chicago, 2024.
 
+<div style="display: flex; gap: 10px;">
+  <button onclick="toggleAbstract('abstract1')">Abstract</button>
+  <button onclick="openLink('https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view')">Paper</button>
+  <button onclick="openLink('https://github.com/rachelngordon/gancm')">Code</button>
+  <button onclick="openLink('https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view')">Slides</button>
+</div>
+
 <button onclick="toggleAbstract('abstract1')">Abstract</button>
 
 <div id="abstract1" style="display:none;">
