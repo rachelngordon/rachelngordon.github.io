@@ -19,7 +19,6 @@ caption: Attending the 2024 Grace Hopper Celebration with some fellow students f
   <button onclick="openLink('https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view')">Slides</button>
 </div>
 
-<button onclick="toggleAbstract('abstract1')">Abstract</button>
 
 <div id="abstract1" style="display:none;">
   High-dose-rate (HDR) brachytherapy is a radiation treatment modality that places radioactive sources directly in cancerous regions. Radiation treatment planning for HDR prostate brachytherapy utilizes both CT and MRI to visualize the path of the radioactive source and the prostate gland, respectively. In this work, we propose GAN-CM, a method for conditional CT-to-MRI translation that is based on Generative Adversarial Networks (GANs). The proposed method uses the typical generator-discriminator design of GANs with a modified generator that incorporates semantic masks obtained from the domain image. The use of semantic masks allows GAN-CM to better capture the anatomical details and tissue characteristics present in CT scans, resulting in a more accurate and realistic MRI synthesis. Using “clinically-paired” CT and MRI datasets obtained from 78 patients with prostate cancer who were treated with HDR brachytherapy, we show the advantages of GAN-CM by demonstrating its ability to work effectively with heavy data augmentation and larger batch sizes, as well as its high performance for MRI synthesis. Exploring various experimental settings, we show that training GANs for this task requires careful considerations for preparing the data, such as normalizing and distributing the pixel values of input images. Using histogram equalization, GAN-CM achieves the best results when using the average of equalized and unequalized CTs.
@@ -36,14 +35,18 @@ caption: Attending the 2024 Grace Hopper Celebration with some fellow students f
   }
 </script>
 
-[Paper](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view)  |  [Code](https://github.com/rachelngordon/gancm)  |  [PowerPoint](https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view)
 
 
 #### Identification and Analysis of the Spread of {Mis}information on Social Media. 
 Muhammad T. Khan, <u>Rachel Gordon</u>, Nimra Khan, Madeline Moran, Mohammed Abuhamad, Loretta Stalans, Jeffrey Huntsinger, Jennifer Forestal, Eric Chan-Tin.
-Computational Data and Social Networks (CSoNet), 2023.
+**Computational Data and Social Networks (CSoNet), 2023.**
 
-<button onclick="toggleAbstract('abstract2')">Abstract</button>
+<div style="display: flex; gap: 10px;">
+  <button onclick="toggleAbstract('abstract2')">Abstract</button>
+  <button onclick="openLink('https://link.springer.com/chapter/10.1007/978-981-97-0669-3_33')">Paper</button>
+  <button onclick="openLink('https://drive.google.com/file/d/1YLiaL5guEJzFEY-AnMdFEMOwh_-uLsaO/view')">Slides</button>
+</div>
+
 
 <div id="abstract2" style="display:none;">
   With unfolding crises such as the COVID-19 pandemic, it is essential that factual information is dispersed at a rapid pace. One of the major setbacks to mitigating the effects of such crises is misinformation. Advancing technologies such as transformer-based architectures that can pick up underlying patterns and correlational information that constitutes information provide tools that can be used to identify what is misinformation/information. To identify and analyze the spread of misinformation, this work performs a quantitative analysis that uses X (previously Twitter) as the data source and a BERT-based model to identify misinformation. The information of the posts, users, and followers was collected based on hashtags and then processed and manually labeled. Furthermore, we tracked the spread of misinformation related to COVID-19 during the year 2021 and determined how communities that spread information and/or misinformation on social networks interact from an analytical perspective. Our findings suggest that users tend to post more misinformation than information, possibly intentionally spreading misinformation. Our model showed good performance in classifying tweets as information/misinformation, resulting in an accuracy of 86%.
@@ -60,16 +63,17 @@ Computational Data and Social Networks (CSoNet), 2023.
   }
 </script>
 
-[Paper](https://link.springer.com/chapter/10.1007/978-981-97-0669-3_33)   [PowerPoint](https://drive.google.com/file/d/1YLiaL5guEJzFEY-AnMdFEMOwh_-uLsaO/view)
-
 {% include image.html url="/assets/img/hanoi.jpg" description="I got to present this work at the 2023 conference on Computational Data and Social Networks in Ha Noi, Viet Nam! Here is a photo of my dad and I getting dinner with some friends we met there." %}
 
 
 #### Expressing Communal Joy on Social Media During Dark Times: Harnessing Natural Language Processing Methods to Characterize Linguistic Affective Data
 <u>Rachel Gordon</u>, Corinne Steuk, Mohammed Abuhamad, Swarnali Banerjee, Rebecca L. Silton.
-Undergraduate Capstone Project, Loyola University Chicago, 2022.
+**Undergraduate Capstone Project, Loyola University Chicago, 2022.**
 
-<button onclick="toggleAbstract('abstract3')">Abstract</button>
+<div style="display: flex; gap: 10px;">
+  <button onclick="toggleAbstract('abstract3')">Abstract</button>
+  <button onclick="openLink('https://github.com/rachelngordon/Joy-Project')">Code</button>
+</div>
 
 <div id="abstract3" style="display:none;">
   With the recent increase in mental health problems facing humanity, it has become important for human survival to maximize adaptive emotion function through the use of positive emotions. This study seeks to identify how joy in particular can foster human resilience in the face of trauma. This research was conducted by looking at tweets around Chicago from September 2019 through January 2022. Several natural language processing techniques were employed to analyze these tweets in order to determine how the use of joy has changed with the occurrence of particular events over time and identify important topics and contexts pertaining to the experience of joy. The results of this analysis showed that joy is, in fact, often experienced communally in the context of shared identities, experiences, and goals, and thus the use of joy as an act of resistance is an important factor for the continued development and growth of humanity. 
@@ -86,7 +90,6 @@ Undergraduate Capstone Project, Loyola University Chicago, 2022.
   }
 </script>
 
-[Code](https://github.com/rachelngordon/Joy-Project)
 
 ***
 
