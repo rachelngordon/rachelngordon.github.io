@@ -39,7 +39,7 @@ For a full professional summary please [see my CV](https://drive.google.com/file
 
 ***
 
-### Projects
+### Publications & Projects
 
 #### Deep Learning-Enabled Reconstruction of Highly Undersampled MRIs
 
