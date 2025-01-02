@@ -33,6 +33,7 @@ For a full professional summary please see [my CV](https://drive.google.com/file
   - Loyola University Chicago
 
 **HONORS**
+* Katherine Johnson Award for outstanding achievement in data science curriculum and research, Department of Computer Science at Loyola University Chicago, 2024.
 * Best Paper Presentation in the Sciences, Loyola University Chicago Interdisciplinary Research Symposium, 2024.
 * Defense of M.S. Thesis with Distinction, Loyola University Chicago, 2024.
 * Father Rust. S.J. Memorial Award for outstanding achievement in mathematics and statistics courses, Department of Mathematics & Statistics at Loyola Unviersity Chicago, 2022.
