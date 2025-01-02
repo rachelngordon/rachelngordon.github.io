@@ -2,11 +2,9 @@
 layout: page
 title: Academic
 permalink: /academic/
-image: /assets/img/arizona.jpg
-caption: Hiking Views in Sedona, Arizona
+image: /assets/img/ghc.jpg
+caption: Attending the 2024 Grace Hopper Celebration with some fellow students from UChicago.
 ---
-
-{% include image.html url="/assets/img/ghc.jpg" description="Attending the 2024 Grace Hopper Celebration with some fellow students from UChicago." %}
 
 ### <a name="prof"></a> Short Professional Summary
 
@@ -43,7 +41,7 @@ For a full professional summary please [see my CV](https://drive.google.com/file
 
 ### Projects
 
-#### Deep Learning-Enabled Reconstruction of Highly Undersampled Breast MRIs
+#### Deep Learning-Enabled Reconstruction of Highly Undersampled MRIs
 
 I am currently working on a new deep learning method for MRI reconsturction of highly undersampled k-space data.
 
@@ -69,4 +67,5 @@ Collected data from Twitter from the time period of the entire COVID-19 pandemic
 
 ***
 
-{% include image.html url="/assets/img/drjoy.jpg" description="Meeting [Dr. Joy Buolamwini](https://poetofcode.com/about/), the author of [Unmasking AI](https://www.unmasking.ai/), which discusses issues of bias in computer vision and other AI technologies. This was my favorite nonfiction book I read in 2024, a must read!" %}
+{% include image.html url="/assets/img/drjoy.jpg" description="Meeting <a href='https://poetofcode.com/about/' target='_blank'>Dr. Joy Buolamwini</a>, the author of <a href='https://www.unmasking.ai/' target='_blank'>Unmasking AI</a>, which discusses issues of bias in computer vision and other AI technologies. This was my favorite nonfiction book I read in 2024, a must read!" %}
+
