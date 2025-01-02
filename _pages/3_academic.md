@@ -10,6 +10,7 @@ caption: Attending the 2024 Grace Hopper Celebration with some fellow students f
 
 #### CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
 <u>Rachel Gordon</u>, Hyejoo Kang, Alexander R. Podgorsak, Mohammed Abuhamad.
+
 **Master's Thesis, Loyola University Chicago, 2024.**
 
 <div style="display: flex; gap: 10px;">
@@ -43,6 +44,7 @@ caption: Attending the 2024 Grace Hopper Celebration with some fellow students f
 
 #### Identification and Analysis of the Spread of {Mis}information on Social Media. 
 Muhammad T. Khan, <u>Rachel Gordon</u>, Nimra Khan, Madeline Moran, Mohammed Abuhamad, Loretta Stalans, Jeffrey Huntsinger, Jennifer Forestal, Eric Chan-Tin.
+
 **Computational Data and Social Networks (CSoNet), 2023.**
 
 <div style="display: flex; gap: 10px;">
