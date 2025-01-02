@@ -50,7 +50,22 @@ For a full professional summary please see [my CV](https://drive.google.com/file
 <u>Rachel Gordon</u>, Hyejoo Kang, Alexander R. Podgorsak, Mohammed Abuhamad
 Master's Thesis, Loyola University Chicago, 2024.
 
-**Abstract:** High-dose-rate (HDR) brachytherapy is a radiation treatment modality that places radioactive sources directly in cancerous regions. Radiation treatment planning for HDR prostate brachytherapy utilizes both CT and MRI to visualize the path of the radioactive source and the prostate gland, respectively. In this work, we propose GAN-CM, a method for conditional CT-to-MRI translation that is based on Generative Adversarial Networks (GANs). The proposed method uses the typical generator-discriminator design of GANs with a modified generator that incorporates semantic masks obtained from the domain image. The use of semantic masks allows GAN-CM to better capture the anatomical details and tissue characteristics present in CT scans, resulting in a more accurate and realistic MRI synthesis. Using “clinically-paired” CT and MRI datasets obtained from 78 patients with prostate cancer who were treated with HDR brachytherapy, we show the advantages of GAN-CM by demonstrating its ability to work effectively with heavy data augmentation and larger batch sizes, as well as its high performance for MRI synthesis. Exploring various experimental settings, we show that training GANs for this task requires careful considerations for preparing the data, such as normalizing and distributing the pixel values of input images. Using histogram equalization, GAN-CM achieves the best results when using the average of equalized and unequalized CTs.
+<button onclick="toggleAbstract('abstract1')">Show/Hide Abstract</button>
+
+<div id="abstract1" style="display:none;">
+  **Abstract:** High-dose-rate (HDR) brachytherapy is a radiation treatment modality that places radioactive sources directly in cancerous regions. Radiation treatment planning for HDR prostate brachytherapy utilizes both CT and MRI to visualize the path of the radioactive source and the prostate gland, respectively. In this work, we propose GAN-CM, a method for conditional CT-to-MRI translation that is based on Generative Adversarial Networks (GANs). The proposed method uses the typical generator-discriminator design of GANs with a modified generator that incorporates semantic masks obtained from the domain image. The use of semantic masks allows GAN-CM to better capture the anatomical details and tissue characteristics present in CT scans, resulting in a more accurate and realistic MRI synthesis. Using “clinically-paired” CT and MRI datasets obtained from 78 patients with prostate cancer who were treated with HDR brachytherapy, we show the advantages of GAN-CM by demonstrating its ability to work effectively with heavy data augmentation and larger batch sizes, as well as its high performance for MRI synthesis. Exploring various experimental settings, we show that training GANs for this task requires careful considerations for preparing the data, such as normalizing and distributing the pixel values of input images. Using histogram equalization, GAN-CM achieves the best results when using the average of equalized and unequalized CTs.
+</div>
+
+<script>
+  function toggleAbstract(id) {
+    const abstract = document.getElementById(id);
+    if (abstract.style.display === "none") {
+      abstract.style.display = "block";
+    } else {
+      abstract.style.display = "none";
+    }
+  }
+</script>
 
 [Paper](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view)   [Code](https://github.com/rachelngordon/gancm)   [PowerPoint](https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view)
 
