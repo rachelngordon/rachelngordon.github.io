@@ -46,10 +46,6 @@ For a full professional summary please see [my CV](https://drive.google.com/file
 
 ### Publications & Projects
 
-#### Deep Learning-Enabled Reconstruction of Highly Undersampled MRIs
-
-I am currently working on a new deep learning method for MRI reconsturction of highly undersampled k-space data.
-
 #### CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
 
 Implemented custom generative adversarial networks (GANs) for generating synthetic MRIs from CTs of soft tissues. Experimented with different data preprocessing methods to improve model performance, compared the results to existing state-of-the-art methods, and collaborated with clinicians to determine the clinical relevance and accuracy of the generated images. Our final model tended to outperform other current methods in terms of six quantitative metrics and visual inspection by experts in the field.
