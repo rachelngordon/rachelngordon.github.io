@@ -48,7 +48,7 @@ For a full professional summary please see [my CV](https://drive.google.com/file
 
 #### CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
 <u>Rachel Gordon</u>, Hyejoo Kang, Alexander R. Podgorsak, Mohammed Abuhamad.
-Master's Thesis, Loyola University Chicago, 2024.
+**Master's Thesis, Loyola University Chicago, 2024.**
 
 <div style="display: flex; gap: 10px;">
   <button onclick="toggleAbstract('abstract1')">Abstract</button>
