@@ -6,17 +6,46 @@ image: /assets/img/arizona.jpg
 caption: Hiking Views in Sedona, Arizona
 ---
 
-### Research Interests
+{% include image.html url="/assets/img/ghc.jpg" description="Attending the 2024 Grace Hopper Celebration with some fellow students from UChicago." %}
 
-I am broadly interested in areas of machine learning for healthcare applications, including computer vision, natural language processing (NLP), and high-performance computing (HPC).
+### <a name="prof"></a> Short Professional Summary
 
-I completed my [Master's thesis](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view) work in the field of medical image synthesis under the supervision of [Mohammed Abuhamad](https://abuhamad.cs.luc.edu/) and [Dr. Hyejoo Kang](https://ssom.luc.edu/radiation-oncology/faculty/profile/index.cfm?id=6150).
+For a full professional summary please [see my CV](https://drive.google.com/file/d/1dD4kfkNKCHcfA9JgnEpTU9Z4xMPm-bTQ/view?usp=sharing).
 
-I will begin my PhD program in the Fall, working with [Globus Labs](https://labs.globus.org/) under the supervision of [Kyle Chard](https://kylechard.com/) and [Ian Foster](https://cs.uchicago.edu/people/ian-foster/).
+**EXPERIENCE**
+* Graduate Research Assistant, Aug. 2024-Present
+  - University of Chicago
+* Graduate Research Assistant, Aug. 2022-May. 2024
+  - Loyola University Chicago, [Argonne National Laboratory](https://www.anl.gov/)
+* Undergraduate Research Assistant, Oct. 2021—Aug. 2022.
+  - Loyola University Chicago
+* Python Tutor, Jan. 2022—May. 2022.
+  - Loyola University Chicago
+* Data Science Intern, Sep. 2021-May. 2022.
+  - [Office of the Director of National Intelligence](https://www.dni.gov/)
+* AI Research Associate, Sep. 2020-Jun. 2021.
+  - [U.S. Department of State](https://www.state.gov/)
+
+**EDUCATION**
+* M.S. Data Science Student, 2022—2024
+  - Loyola University Chicago
+* B.S. Statistics, Honors Summa Cum Laude, 2019-2022
+  - Loyola University Chicago
+
+**HONORS**
+* Best Paper Presentation in the Sciences, Loyola University Chicago Interdisciplinary Research Symposium, 2024.
+* Defense of M.S. Thesis with Distinction, Loyola University Chicago, 2024.
+* Father Rust. S.J. Memorial Award for outstanding achievement in mathematics and statistics courses, Department of Mathematics & Statistics at Loyola Unviersity Chicago, 2022.
+* Departmental Honors, Department of Mathematics & Statistics at Loyola Unviersity Chicago, 2022.
+* Presidential Scholar, Loyola University Chicago, 2019-2022.
 
 ***
 
 ### Projects
+
+#### Deep Learning-Enabled Reconstruction of Highly Undersampled Breast MRIs
+
+I am currently working on a new deep learning method for MRI reconsturction of highly undersampled k-space data.
 
 #### CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
 
@@ -40,9 +69,4 @@ Collected data from Twitter from the time period of the entire COVID-19 pandemic
 
 ***
 
-{% include image.html url="/assets/img/tokyo.jpg" description="Visiting Tsutaya Books in Tokyo, Japan" %}
-
-
-<!-- [^1]: Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290). -->
-
-<!-- *Updated: April 2024* -->
+{% include image.html url="/assets/img/drjoy.jpg" description="Meeting [Dr. Joy Buolamwini](https://poetofcode.com/about/), the author of [Unmasking AI](https://www.unmasking.ai/), which discusses issues of bias in computer vision and other AI technologies. This was my favorite nonfiction book I read in 2024, a must read!" %}
