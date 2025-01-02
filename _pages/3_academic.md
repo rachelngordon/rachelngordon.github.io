@@ -56,21 +56,6 @@ Muhammad T. Khan, <u>Rachel Gordon</u>, Nimra Khan, Madeline Moran, Mohammed Abu
   With unfolding crises such as the COVID-19 pandemic, it is essential that factual information is dispersed at a rapid pace. One of the major setbacks to mitigating the effects of such crises is misinformation. Advancing technologies such as transformer-based architectures that can pick up underlying patterns and correlational information that constitutes information provide tools that can be used to identify what is misinformation/information. To identify and analyze the spread of misinformation, this work performs a quantitative analysis that uses X (previously Twitter) as the data source and a BERT-based model to identify misinformation. The information of the posts, users, and followers was collected based on hashtags and then processed and manually labeled. Furthermore, we tracked the spread of misinformation related to COVID-19 during the year 2021 and determined how communities that spread information and/or misinformation on social networks interact from an analytical perspective. Our findings suggest that users tend to post more misinformation than information, possibly intentionally spreading misinformation. Our model showed good performance in classifying tweets as information/misinformation, resulting in an accuracy of 86%.
 </div>
 
-<script>
-  function toggleAbstract(id) {
-    const abstract = document.getElementById(id);
-    if (abstract.style.display === "none") {
-      abstract.style.display = "block";
-    } else {
-      abstract.style.display = "none";
-    }
-  }
-
-  function openLink(url) {
-    window.open(url, '_blank');
-  }
-</script>
-
 
 
 {% include image.html url="/assets/img/hanoi.jpg" description="I got to present this work at the 2023 conference on Computational Data and Social Networks in Ha Noi, Viet Nam! Here is a photo of my dad and I getting dinner with some friends we met there." %}
@@ -88,21 +73,6 @@ Muhammad T. Khan, <u>Rachel Gordon</u>, Nimra Khan, Madeline Moran, Mohammed Abu
 <div id="abstract3" style="display:none;">
   With the recent increase in mental health problems facing humanity, it has become important for human survival to maximize adaptive emotion function through the use of positive emotions. This study seeks to identify how joy in particular can foster human resilience in the face of trauma. This research was conducted by looking at tweets around Chicago from September 2019 through January 2022. Several natural language processing techniques were employed to analyze these tweets in order to determine how the use of joy has changed with the occurrence of particular events over time and identify important topics and contexts pertaining to the experience of joy. The results of this analysis showed that joy is, in fact, often experienced communally in the context of shared identities, experiences, and goals, and thus the use of joy as an act of resistance is an important factor for the continued development and growth of humanity. 
 </div>
-
-<script>
-  function toggleAbstract(id) {
-    const abstract = document.getElementById(id);
-    if (abstract.style.display === "none") {
-      abstract.style.display = "block";
-    } else {
-      abstract.style.display = "none";
-    }
-  }
-
-  function openLink(url) {
-    window.open(url, '_blank');
-  }
-</script>
 
 
 ***
