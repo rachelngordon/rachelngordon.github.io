@@ -27,7 +27,7 @@ For a full professional summary please see [my CV](https://drive.google.com/file
   - [U.S. Department of State](https://www.state.gov/)
 
 **EDUCATION**
-* Ph.D. Computer Science Student, 2024—Present
+* Ph.D. Computer Science, 2024—Present
   - University of Chicago
 * M.S. Data Science, 2022—2024
   - Loyola University Chicago
@@ -66,11 +66,11 @@ Computational Data and Social Networks (CSoNet), 2023.
 {% include image.html url="/assets/img/hanoi.jpg" description="I got to present this work at the 2023 conference on Computational Data and Social Networks in Ha Noi, Viet Nam! Here is a photo of my dad and I getting dinner with some friends we met there." %}
 
 
-#### Expressing Communal Joy on Social Media During Dark Times: Harnessing Natural Language Processing Methods to Characterize Linguistic Affective Data (Undergraduate Capstone Project)
+#### Expressing Communal Joy on Social Media During Dark Times: Harnessing Natural Language Processing Methods to Characterize Linguistic Affective Data
 <u>Rachel Gordon</u>, Corinne Steuk, Mohammed Abuhamad, Swarnali Banerjee, Rebecca L. Silton
-2022.
+Undergraduate Capstone Project, Loyola University Chicago, 2022.
 
-**Summary:** With the recent increase in mental health problems facing humanity, it has become important for human survival to maximize adaptive emotion function through the use of positive emotions. This study seeks to identify how joy in particular can foster human resilience in the face of trauma. This research was conducted by looking at tweets around Chicago from September 2019 through January 2022. Several natural language processing techniques were employed to analyze these tweets in order to determine how the use of joy has changed with the occurrence of particular events over time and identify important topics and contexts pertaining to the experience of joy. The results of this analysis showed that joy is, in fact, often experienced communally in the context of shared identities, experiences, and goals, and thus the use of joy as an act of resistance is an important factor for the continued development and growth of humanity. 
+**Abstract:** With the recent increase in mental health problems facing humanity, it has become important for human survival to maximize adaptive emotion function through the use of positive emotions. This study seeks to identify how joy in particular can foster human resilience in the face of trauma. This research was conducted by looking at tweets around Chicago from September 2019 through January 2022. Several natural language processing techniques were employed to analyze these tweets in order to determine how the use of joy has changed with the occurrence of particular events over time and identify important topics and contexts pertaining to the experience of joy. The results of this analysis showed that joy is, in fact, often experienced communally in the context of shared identities, experiences, and goals, and thus the use of joy as an act of resistance is an important factor for the continued development and growth of humanity. 
 
 [Code](https://github.com/rachelngordon/Joy-Project)
 
