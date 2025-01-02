@@ -27,7 +27,9 @@ For a full professional summary please see [my CV](https://drive.google.com/file
   - [U.S. Department of State](https://www.state.gov/)
 
 **EDUCATION**
-* M.S. Data Science Student, 2022—2024
+* Ph.D. Computer Science Student, 2024—Present
+  - University of Chicago
+* M.S. Data Science, 2022—2024
   - Loyola University Chicago
 * B.S. Statistics, Honors Summa Cum Laude, 2019-2022
   - Loyola University Chicago
