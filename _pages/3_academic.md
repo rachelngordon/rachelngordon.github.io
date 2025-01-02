@@ -47,7 +47,7 @@ For a full professional summary please see [my CV](https://drive.google.com/file
 ### Publications & Projects
 
 #### CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
-<u>Rachel Gordon</u>, Hyejoo Kang, Alexander R. Podgorsak, Mohammed Abuhamad
+<u>Rachel Gordon</u>, Hyejoo Kang, Alexander R. Podgorsak, Mohammed Abuhamad.
 Master's Thesis, Loyola University Chicago, 2024.
 
 <button onclick="toggleAbstract('abstract1')">Abstract</button>
@@ -71,7 +71,7 @@ Master's Thesis, Loyola University Chicago, 2024.
 
 
 #### Identification and Analysis of the Spread of {Mis}information on Social Media. 
-Muhammad T. Khan, <u>Rachel Gordon</u>, Nimra Khan, Madeline Moran, Mohammed Abuhamad, Loretta Stalans, Jeffrey Huntsinger, Jennifer Forestal, Eric Chan-Tin
+Muhammad T. Khan, <u>Rachel Gordon</u>, Nimra Khan, Madeline Moran, Mohammed Abuhamad, Loretta Stalans, Jeffrey Huntsinger, Jennifer Forestal, Eric Chan-Tin.
 Computational Data and Social Networks (CSoNet), 2023.
 
 <button onclick="toggleAbstract('abstract2')">Abstract</button>
@@ -97,7 +97,7 @@ Computational Data and Social Networks (CSoNet), 2023.
 
 
 #### Expressing Communal Joy on Social Media During Dark Times: Harnessing Natural Language Processing Methods to Characterize Linguistic Affective Data
-<u>Rachel Gordon</u>, Corinne Steuk, Mohammed Abuhamad, Swarnali Banerjee, Rebecca L. Silton
+<u>Rachel Gordon</u>, Corinne Steuk, Mohammed Abuhamad, Swarnali Banerjee, Rebecca L. Silton.
 Undergraduate Capstone Project, Loyola University Chicago, 2022.
 
 <button onclick="toggleAbstract('abstract3')">Abstract</button>
