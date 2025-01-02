@@ -63,6 +63,7 @@ Muhammad T. Khan, <u>Rachel Gordon</u>, Nimra Khan, Madeline Moran, Mohammed Abu
 
 #### Expressing Communal Joy on Social Media During Dark Times: Harnessing Natural Language Processing Methods to Characterize Linguistic Affective Data
 <u>Rachel Gordon</u>, Corinne Steuk, Mohammed Abuhamad, Swarnali Banerjee, Rebecca L. Silton.
+
 **Undergraduate Capstone Project, Loyola University Chicago, 2022.**
 
 <div style="display: flex; gap: 10px;">
