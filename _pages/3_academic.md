@@ -47,7 +47,7 @@ I am currently working on a new deep learning method for MRI reconsturction of h
 
 #### CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
 
-Implemented custom generative adversarial networks (GANs) for generating synthetic MRIs from CTs of soft tissues. Experimented with different data preprocessing methods to improve model performance, compared the results to existing state-of-the-art methods, and collaborated with clinicians to determine the clinical relevance and accuracy of the generated images. Our final model tended to outperform other current methods in terms of six quantitative metrics and visual inspection by experts in the field. Completed as my Master's thesis and submitted to IEEE Journal of Biomedical and Health Informatics (currently under review).
+Implemented custom generative adversarial networks (GANs) for generating synthetic MRIs from CTs of soft tissues. Experimented with different data preprocessing methods to improve model performance, compared the results to existing state-of-the-art methods, and collaborated with clinicians to determine the clinical relevance and accuracy of the generated images. Our final model tended to outperform other current methods in terms of six quantitative metrics and visual inspection by experts in the field.
 
 [Paper](https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view)   [Code](https://github.com/rachelngordon/gancm)   [PowerPoint](https://drive.google.com/file/d/1_gaAzzrvJnPvSDqchlOCbfLcUmq_Wtyp/view)
 
