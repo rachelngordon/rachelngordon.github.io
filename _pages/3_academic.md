@@ -56,7 +56,7 @@ Muhammad T. Khan, <u>Rachel Gordon</u>, Nimra Khan, Madeline Moran, Mohammed Abu
   With unfolding crises such as the COVID-19 pandemic, it is essential that factual information is dispersed at a rapid pace. One of the major setbacks to mitigating the effects of such crises is misinformation. Advancing technologies such as transformer-based architectures that can pick up underlying patterns and correlational information that constitutes information provide tools that can be used to identify what is misinformation/information. To identify and analyze the spread of misinformation, this work performs a quantitative analysis that uses X (previously Twitter) as the data source and a BERT-based model to identify misinformation. The information of the posts, users, and followers was collected based on hashtags and then processed and manually labeled. Furthermore, we tracked the spread of misinformation related to COVID-19 during the year 2021 and determined how communities that spread information and/or misinformation on social networks interact from an analytical perspective. Our findings suggest that users tend to post more misinformation than information, possibly intentionally spreading misinformation. Our model showed good performance in classifying tweets as information/misinformation, resulting in an accuracy of 86%.
 </div>
 
-
+***
 
 {% include image.html url="/assets/img/hanoi.jpg" description="I got to present this work at the 2023 conference on Computational Data and Social Networks in Ha Noi, Viet Nam! Here is a photo of my dad and I getting dinner with some friends we met there." %}
 
