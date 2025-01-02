@@ -6,44 +6,6 @@ image: /assets/img/ghc.jpg
 caption: Attending the 2024 Grace Hopper Celebration with some fellow students from UChicago.
 ---
 
-### <a name="prof"></a> Short Professional Summary
-
-For a full professional summary please see [my CV](https://drive.google.com/file/d/1dD4kfkNKCHcfA9JgnEpTU9Z4xMPm-bTQ/view?usp=sharing).
-
-**EXPERIENCE**
-* Graduate Research Assistant, Aug. 2024-Present
-  - University of Chicago
-* [Graduate Women in Computer Science](https://cs.uchicago.edu/diversity/women-in-computing/) co-chair, Sep. 2024-Present
-  - University of Chicago
-* Graduate Research Assistant, Aug. 2022-May. 2024
-  - Loyola University Chicago, [Argonne National Laboratory](https://www.anl.gov/)
-* Undergraduate Research Assistant, Oct. 2021—Aug. 2022.
-  - Loyola University Chicago
-* Python Tutor, Jan. 2022—May. 2022.
-  - Loyola University Chicago
-* Data Science Intern, Sep. 2021-May. 2022.
-  - [Office of the Director of National Intelligence](https://www.dni.gov/)
-* AI Research Associate, Sep. 2020-Jun. 2021.
-  - [U.S. Department of State](https://www.state.gov/)
-
-**EDUCATION**
-* Ph.D. Computer Science, 2024—Present
-  - University of Chicago
-* M.S. Data Science, 2022—2024
-  - Loyola University Chicago
-* B.S. Statistics, Honors Summa Cum Laude, 2019-2022
-  - Loyola University Chicago
-
-**HONORS**
-* Katherine Johnson Award for outstanding achievement in data science curriculum and research, Department of Computer Science at Loyola University Chicago, 2024.
-* Best Paper Presentation in the Sciences, Loyola University Chicago Interdisciplinary Research Symposium, 2024.
-* Defense of M.S. Thesis with Distinction, Loyola University Chicago, 2024.
-* Father Rust. S.J. Memorial Award for outstanding achievement in mathematics and statistics courses, Department of Mathematics & Statistics at Loyola Unviersity Chicago, 2022.
-* Departmental Honors, Department of Mathematics & Statistics at Loyola Unviersity Chicago, 2022.
-* Presidential Scholar, Loyola University Chicago, 2019-2022.
-
-***
-
 ### Publications & Projects
 
 #### CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
@@ -125,6 +87,44 @@ Undergraduate Capstone Project, Loyola University Chicago, 2022.
 </script>
 
 [Code](https://github.com/rachelngordon/Joy-Project)
+
+***
+
+### <a name="prof"></a> Short Professional Summary
+
+For a full professional summary please see [my CV](https://drive.google.com/file/d/1dD4kfkNKCHcfA9JgnEpTU9Z4xMPm-bTQ/view?usp=sharing).
+
+**EXPERIENCE**
+* Graduate Research Assistant, Aug. 2024-Present
+  - University of Chicago
+* [Graduate Women in Computer Science](https://cs.uchicago.edu/diversity/women-in-computing/) co-chair, Sep. 2024-Present
+  - University of Chicago
+* Graduate Research Assistant, Aug. 2022-May. 2024
+  - Loyola University Chicago, [Argonne National Laboratory](https://www.anl.gov/)
+* Undergraduate Research Assistant, Oct. 2021—Aug. 2022.
+  - Loyola University Chicago
+* Python Tutor, Jan. 2022—May. 2022.
+  - Loyola University Chicago
+* Data Science Intern, Sep. 2021-May. 2022.
+  - [Office of the Director of National Intelligence](https://www.dni.gov/)
+* AI Research Associate, Sep. 2020-Jun. 2021.
+  - [U.S. Department of State](https://www.state.gov/)
+
+**EDUCATION**
+* Ph.D. Computer Science, 2024—Present
+  - University of Chicago
+* M.S. Data Science, 2022—2024
+  - Loyola University Chicago
+* B.S. Statistics, Honors Summa Cum Laude, 2019-2022
+  - Loyola University Chicago
+
+**HONORS**
+* Katherine Johnson Award for outstanding achievement in data science curriculum and research, Department of Computer Science at Loyola University Chicago, 2024.
+* Best Paper Presentation in the Sciences, Loyola University Chicago Interdisciplinary Research Symposium, 2024.
+* Defense of M.S. Thesis with Distinction, Loyola University Chicago, 2024.
+* Father Rust. S.J. Memorial Award for outstanding achievement in mathematics and statistics courses, Department of Mathematics & Statistics at Loyola Unviersity Chicago, 2022.
+* Departmental Honors, Department of Mathematics & Statistics at Loyola Unviersity Chicago, 2022.
+* Presidential Scholar, Loyola University Chicago, 2019-2022.
 
 ***
 
