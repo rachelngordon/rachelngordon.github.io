@@ -14,9 +14,9 @@ scholar: https://scholar.google.com/citations?user=KNGtQP8AAAAJ&hl=en&authuser=1
 github: https://github.com/rachelngordon
 # youtube: https://www.youtube.com/@_m.khangg_
 resume: assets/doc/CV.pdf
-projects: show            # delete "show" or leave it blank to hide this icon
+projects:             # delete "show" or leave it blank to hide this icon
 location: https://maps.app.goo.gl/ChzvajkDzdL4RxEJ7
-codepen: 
+# codepen: 
 orcid: https://orcid.org/0000-0002-1427-0146
 contact: show            # delete "show" or leave it blank to hide this icon
 
