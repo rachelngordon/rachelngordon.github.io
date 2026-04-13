@@ -14,7 +14,7 @@
 
   - title: BRISKNet: Breast Rapid Imaging via Self-Supervised Kinetics
     system-name: 
-    gif: assets/img/demo_refined_mapping.gif
+    gif: 
     conference: 
     conference-web: 
     status:
@@ -24,6 +24,21 @@
     # slides: https://rachelngordon.com/assets/slides/
     abstract-less: Dynamic contrast-enhanced (DCE) breast MRI captures tumor vascularity through contrast kinetics, but clinical protocols face a fundamental trade-off between temporal resolution and spatial quality. 
     abstract-more: Supervised deep learning reconstruction is inadequate because fully-sampled ground truth is impossible to obtain in dynamic MRI: undersampling is inherent to achieving clinically useful frame rates. We propose BRISKNet, an unsupervised, physics-informed reconstruction framework for multi-coil radial breast DCE-MRI that adapts an unrolled optimization network within a spatiotemporally equivariant training framework. On the fastMRI breast dataset, BRISKNet achieves spatial and temporal fidelity comparable to iGRASP reconstruction at moderate acceleration factors ($14\times$--$31\times$) and remains competitive at $63\times$, while providing substantially faster per-volume reconstruction time. An ablation study shows that spatial equivariance via diffeomorphic transformations reduces streaking artifacts at high acceleration and temporal equivariance constraints grounded in contrast kinetics improve temporal fidelity to arrival time and wash-in slope. To our knowledge, this is the first unsupervised deep learning method for radial breast DCE-MRI reconstruction.
+    tag: 
+    category: 
+
+  - title: Advancing HDR Brachytherapy Treatment Planning with Enhanced CT-to-MRI Synthesis
+    system-name: 
+    gif: 
+    conference: 
+    conference-web: 
+    status: 
+    authors: <u>Rachel Gordon</u>, .
+    pdf: 
+    # code: https://github.com/mkhangg/refined_panoptic_mapping
+    # slides: https://rachelngordon.com/assets/slides/
+    abstract-less: High-dose-rate (HDR) brachytherapy is a radiation treatment modality that places radioactive sources directly in cancerous regions. Radiation treatment planning for HDR prostate brachytherapy utilizes both CT and MRI
+    abstract-more: to visualize the path of the radioactive source and the prostate gland, respectively. In this work, we propose GAN-CM, a method for conditional CT-to-MRI translation that is based on Generative Adversarial Networks (GANs). The proposed method uses the typical generator-discriminator design of GANs with a modified generator that incorporates semantic masks obtained from the domain image. The use of semantic masks allows GAN-CM to better capture the anatomical details and tissue characteristics present in CT scans, resulting in a more accurate and realistic MRI synthesis. Using “clinically-paired” CT and MRI datasets obtained from 78 patients with prostate cancer who were treated with HDR brachytherapy, we show the advantages of GAN-CM by demonstrating its ability to work effectively with heavy data augmentation and larger batch sizes, as well as its high performance for MRI synthesis. Exploring various experimental settings, we show that training GANs for this task requires careful considerations for preparing the data, such as normalizing and distributing the pixel values of input images. Using histogram equalization, GAN-CM achieves the best results when using the average of equalized and unequalized CTs.
     tag: 
     category: 
 
