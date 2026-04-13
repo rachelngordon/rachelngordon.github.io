@@ -29,14 +29,11 @@ website: https://rachelngordon.github.io/
 web-dns: rachelngordon.github.io
 
 # about me
-first-paragraph: I am a research assistant with <a href="https://labs.globus.org/" target="_blank" rel="noopener">Globus Labs</a> affiliated with the <a href="https://computerscience.uchicago.edu/" target="_blank" rel="noopener">University of Chicago</a> under the guidance of <a href="https://computerscience.uchicago.edu/people/ian-foster/" target="_blank" rel="noopener">Prof. Ian Foster</a> and <a href="https://cs.uchicago.edu/people/kyle-chard/" target="_blank" rel="noopener">Dr. Kyle Chard</a>.
-second-paragraph: 
-research-introduction: I do research in machine learning for healthcare, mainly focusing on applying neural networks to enhance and extract meaning from medical images through reconstruction, segmentation, and synthesis of MRI, CT, and other modalities. 
+first-paragraph: I am currently a research assistant with <a href="https://labs.globus.org/" target="_blank" rel="noopener">Globus Labs</a> affiliated with the <a href="https://computerscience.uchicago.edu/" target="_blank" rel="noopener">University of Chicago</a> under the guidance of <a href="https://computerscience.uchicago.edu/people/ian-foster/" target="_blank" rel="noopener">Prof. Ian Foster</a> and <a href="https://cs.uchicago.edu/people/kyle-chard/" target="_blank" rel="noopener">Dr. Kyle Chard</a>. I am partially funded by the UChicago Data Science Institute's AI+Science Research Initiative through the Margot and Tom Pritzker Foundation.
+second-paragraph: I earned my MS in Data Science and my BS in Statistics from Loyola University Chicago, where I defended my Master's thesis, "Advancing HDR Brachytherapy Treatment Planning with Enhanced CT-to-MRI Synthesis", with distinction. I am passionate about interdisciplinary collaboration that leverages neural networks for clinical applications aimed at improving patient care. 
+research-introduction: I do research in machine learning for healthcare, mainly focusing on applying deep learning methods to enhance and extract meaning from medical images through reconstruction, segmentation, and synthesis of MRI, CT, and other modalities. My current work focuses on developing methods for undersampled MRI reconstruction to improve temporal resolution while preserving spatial fidelity. The ultimate goal of this work is to enable identification of new biomarkers (within the first few seconds of contrast injection) for breast cancer risk prediction, which are not able to be adequately resolved with current imaging protocols. 
 
-# research-interests:
+research-interests:
 
-#   - field: Robotic Perception
-#     subfields: semantic scene understanding, perception for grasping
-  
-#   - field: Robotic Manipulation
-#     subfields: learning to grasp, manipulative visual-motor skills
+  - field: Computer Vision for Healthcare
+    subfields: MRI reconstruction, CT-to-MRI synthesis, tumor segmentation
