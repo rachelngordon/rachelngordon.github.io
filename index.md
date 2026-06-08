@@ -3,10 +3,7 @@ layout: main
 ---
 
 {% include_relative _sections/about.html %}
-{% comment %}
-Re-enable this include to bring the updates section back.
 {% include_relative _sections/updates.html %}
-{% endcomment %}
 {% include_relative _sections/research.html %}
 {% include_relative _sections/outreach.html %}
 {% comment %}

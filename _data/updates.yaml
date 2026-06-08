@@ -1,17 +1,25 @@
 updates:
 
-  - picture: assets/img/about.jpg
-    desc: I began my <hightlight>Computer Science PhD</hightlight> at the University of Chicago and joined <hightlight>Globus Labs</hightlight>.
-    time: August 2024
-
   - picture: assets/img/ghc.jpg
     desc: I became a <hightlight>Graduate Women in Computer Science co-chair</hightlight> at the University of Chicago.
     time: September 2024
+
+  - picture: assets/img/about.jpg
+    desc: I began my <hightlight>Computer Science PhD</hightlight> at the University of Chicago and joined <hightlight>Globus Labs</hightlight>.
+    time: August 2024
 
   - picture: assets/img/graduation.jpg
     desc: I earned my <hightlight>MS in Data Science</hightlight> from Loyola University Chicago and defended my thesis with distinction.
     time: May 2024
 
+  - picture: assets/img/graduation.jpg
+    desc: I received the <hightlight>Katherine Johnson Award</hightlight>, earned <hightlight>Best Paper Presentation in the Sciences</hightlight> at the Loyola University Chicago Interdisciplinary Research Symposium, and defended my <hightlight>MS thesis with distinction</hightlight>.
+    time: 2024
+
   - picture: assets/img/hanoi.jpg
     desc: I presented work on <hightlight>misinformation on social media</hightlight> at CSoNet in Ha Noi, Viet Nam.
     time: 2023
+
+  - picture: assets/img/graduation.jpg
+    desc: I received the <hightlight>Father Rust S.J. Memorial Award</hightlight>, <hightlight>Departmental Honors</hightlight>, and <hightlight>Presidential Scholar</hightlight> recognition for my undergraduate work.
+    time: 2022
