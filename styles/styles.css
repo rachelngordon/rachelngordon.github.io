@@ -687,6 +687,20 @@ div.desc {
     font-weight: 700;
     margin-right: 0.35rem;
 }
+.updates-toggle {
+    border: 1px solid #bd5d38;
+    border-radius: 7px;
+    background: transparent;
+    color: #bd5d38;
+    cursor: pointer;
+    font-weight: 700;
+    margin-top: 0.25rem;
+    padding: 0.25rem 0.65rem;
+}
+.updates-toggle:hover {
+    background-color: #bd5d38;
+    color: #fff;
+}
 
 /* Styles for update cards */
 .news-card {

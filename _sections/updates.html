@@ -7,12 +7,15 @@
         <p></p>
         <ul class="updates-list">
             {% for update in site.data.updates.updates %}
-                <li>
+                <li{% if forloop.index > 5 %} class="updates-extra hidden"{% endif %}>
                     <span class="updates-time">{{ update.time }}</span>
                     <span class="updates-desc">{{ update.desc }}</span>
                 </li>
             {% endfor %}
         </ul>
+        {% if site.data.updates.updates.size > 5 %}
+            <button class="updates-toggle" id="updatesToggle" type="button">show more</button>
+        {% endif %}
         <p></p>
     </div>
 </div>

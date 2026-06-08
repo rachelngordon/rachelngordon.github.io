@@ -640,6 +640,23 @@ document.addEventListener('DOMContentLoaded', function() {
     speechBalloon.classList.remove('hidden');
 });
 
+document.addEventListener('DOMContentLoaded', function() {
+    const updatesToggle = document.getElementById('updatesToggle');
+    if (!updatesToggle) {
+        return;
+    }
+
+    const extraUpdates = document.querySelectorAll('.updates-extra');
+    updatesToggle.addEventListener('click', function() {
+        const isShowingMore = updatesToggle.dataset.expanded === 'true';
+        extraUpdates.forEach(function(update) {
+            update.classList.toggle('hidden', isShowingMore);
+        });
+        updatesToggle.dataset.expanded = isShowingMore ? 'false' : 'true';
+        updatesToggle.textContent = isShowingMore ? 'show more' : 'show less';
+    });
+});
+
 
 // Automatically update year in footer
 document.getElementById("currentYear").textContent = new Date().getFullYear();
