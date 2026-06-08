@@ -8,7 +8,7 @@
         <div id="filters-project">
             <button class="filter-button active" data-filter="*">all</button>
             {% for category in site.data.research.categories %}
-                <button class="filter-button" data-filter="{{ category.data-filter }}">{{ category.category-name }}</button>
+                <button class="filter-button" data-filter=".project[data-filter='{{ category.data-filter }}']">{{ category.category-name }}</button>
             {% endfor %}
         </div>
         <p></p>

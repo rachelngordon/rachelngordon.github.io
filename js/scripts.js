@@ -20,10 +20,13 @@ btn.on('click', function(e) {
 
 
 // Play pronunciation audio when the emoji is clicked
-document.getElementById('volumeEmoji').addEventListener('click', function() {
-    const pronunicationAudio = new Audio('assets/sounds/khang.mp3');
-    pronunicationAudio.play();
-});
+const volumeEmoji = document.getElementById('volumeEmoji');
+if (volumeEmoji) {
+    volumeEmoji.addEventListener('click', function() {
+        const pronunicationAudio = new Audio('assets/sounds/khang.mp3');
+        pronunicationAudio.play();
+    });
+}
 
 
 // Toggle navigation menu bar
@@ -76,6 +79,7 @@ function toggleTheme() {
         buttonEl.classList.add('dark-theme');
         buttonEl.innerText = '☀️';
         speechBalloon.innerText = 'lights turned off!';
+        speechBalloon.classList.remove('hidden');
         clickSound.play();
     } else {
         bodyEl.classList.remove('dark-theme');
@@ -84,8 +88,20 @@ function toggleTheme() {
         buttonEl.classList.add('light-theme');
         buttonEl.innerText = '🌙';
         speechBalloon.innerText = 'lights turned on!';
+        speechBalloon.classList.remove('hidden');
         clickSound.play();
     }
+}
+
+function setDefaultCatMessage() {
+    const speechBalloon = document.querySelector('.speech-balloon');
+    if (!speechBalloon) {
+        return;
+    }
+    speechBalloon.innerText = document.body.classList.contains('dark-theme')
+        ? 'lights are off!'
+        : 'lights are on!';
+    speechBalloon.classList.remove('hidden');
 }
 
 
@@ -140,8 +156,7 @@ popupIconContainer.addEventListener(startEvent, (e) => {
     originalY = popupIconContainer.getBoundingClientRect().top;
     dismissalArea.style.display = 'flex';
     
-    // Hide the speech balloon as users start dragging and drag the icon
-    document.querySelector('.speech-balloon').classList.add('hidden');
+    document.querySelector('.speech-balloon').classList.remove('hidden');
 });
 
 
@@ -176,23 +191,20 @@ document.addEventListener(endEvent, (e) => {
 
     // Check if icon is near the middle bottom dismissal area
     if (Math.abs(clientX - centerX) < 50 && Math.abs(clientY - centerY) < 100) {
-        popupIconContainer.classList.add('hidden');
+        popupIconContainer.classList.remove('hidden');
+        setDefaultCatMessage();
         clickSound.play();
     }
 
     dismissalArea.style.display = 'none';
     isDragging = false;
+    setDefaultCatMessage();
 });
 
 
-// Hide speech balloon when scrolling down
+// Keep the cat saying something while scrolling.
 window.addEventListener('scroll', function() {
-    let scrollPosition = window.scrollY || document.documentElement.scrollTop;
-    if (scrollPosition > 300) {
-        document.querySelector('.speech-balloon').classList.add('hidden');
-    } else {
-        document.querySelector('.speech-balloon').classList.remove('hidden');
-    }
+    document.querySelector('.speech-balloon').classList.remove('hidden');
 });
 
 
@@ -209,24 +221,30 @@ function progressBar() {
 
 // Scripts to activate/deactivate contact info card 
 var overlaybg = document.getElementById('overlay-bg');
+var contactCardTrigger = document.getElementById('contact-card-trigger');
+var frontEndCard = document.getElementById('front_end_card');
 
-document.getElementById('contact-card-trigger').onclick = function() {
-    overlaybg.style.display = 'flex';
-};
+if (overlaybg && contactCardTrigger) {
+    contactCardTrigger.onclick = function() {
+        overlaybg.style.display = 'flex';
+    };
 
-overlaybg.addEventListener('click', function(event) {
-    if (event.target === overlaybg) {
-        overlaybg.style.display = 'none';
-    }
-});
+    overlaybg.addEventListener('click', function(event) {
+        if (event.target === overlaybg) {
+            overlaybg.style.display = 'none';
+        }
+    });
+}
 
 
 // Play the flipping-card sound when user flips the contact info card
-document.getElementById('front_end_card').addEventListener('click', function() {
-    this.classList.toggle('flip');
-    const flipAudio = new Audio('assets/sounds/flipcard_sound.mp3');
-    flipAudio.play();
-});
+if (frontEndCard) {
+    frontEndCard.addEventListener('click', function() {
+        this.classList.toggle('flip');
+        const flipAudio = new Audio('assets/sounds/flipcard_sound.mp3');
+        flipAudio.play();
+    });
+}
 
 
 // Get all filter buttons and change their active status as user clicks
@@ -304,7 +322,7 @@ var filterAtribute = 'data-filter';
 var pageAtribute = 'data-page-project';
 var pagerClass = 'isotope-pager-project';
 var $projects = $('#projects').isotope({
-    itemcategory: '.project',
+    itemSelector: '.project',
     layoutMode: 'vertical'
 });
 
@@ -320,8 +338,7 @@ function filterCategoryProjects(category) {
 // Determine items to be categorized and displayed per page
 function showPageProjects(n) {
     currentPage = n;
-    var category = '.project';
-        category += ( currentFilter != '*' ) ? '[' + filterAtribute + '="' + currentFilter + '"]' : '';
+    var category = currentFilter === '*' ? '.project' : currentFilter;
         category += '[' + pageAtribute + '="' + currentPage+'"]';
     filterCategoryProjects(category);
 }
@@ -368,12 +385,11 @@ function updatePagerProjects() {
 // Set pagination
 function setPaginationProjects() {
     var SettingsPagesOnItems = function() {
-        var itemsLength = $projects.children('.project').length;
+        var category = currentFilter === '*' ? '.project' : currentFilter;
+        var itemsLength = $projects.children(category).length;
         var pages = Math.ceil(itemsLength / itemsPerPageDefault);
         var item = 1;
         var page = 1;
-        var category = '.project';
-            category += ( currentFilter != '*' ) ? '[' + filterAtribute + '="' + currentFilter + '"]' : '';
         
         $projects.children(category).each(function() {
             if (item > itemsPerPageDefault) {
@@ -414,6 +430,9 @@ function initializeIsotopeProjects() {
 document.addEventListener('DOMContentLoaded', () => {
 
     const container = document.getElementById('github-cards');
+    if (!container) {
+        return;
+    }
     const repoElements = container.querySelectorAll('div[data-url]');
 
     repoElements.forEach(repoElement => {
@@ -591,8 +610,12 @@ $(document).ready(function() {
 
     Promise.all(imageLoadPromises).then(function() {
         initializeOwlCarousel();
-        initializeIsotopeProjects();
-        initializeIsotopeGithub();
+        if ($('#projects').length) {
+            initializeIsotopeProjects();
+        }
+        if ($('#github-cards').length) {
+            initializeIsotopeGithub();
+        }
     });
 });
 
@@ -614,6 +637,7 @@ document.addEventListener('DOMContentLoaded', function() {
         buttonEl.innerText = '🌙';
         speechBalloon.innerText = 'it\'s day, lights on!';
     }
+    speechBalloon.classList.remove('hidden');
 });
 
 

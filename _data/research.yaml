@@ -12,7 +12,7 @@ projects:
     system-name:
     gif: assets/img/research/brisknet.png
     conference: Current research
-    conference-web: https://labs.globus.org/
+    conference-web: https://labs.globus.org/projects/mri.html
     status:
     authors: <u>Rachel Gordon</u>, Michael Maire, Gregory Karczmar, Zhen Ren, Milica Medved, Eddy Solomon, Laura Heacock, Olufunmilayo Olopade, Ian Foster, Kyle Chard, Anna Woodard.
     pdf:
