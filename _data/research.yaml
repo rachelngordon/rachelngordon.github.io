@@ -25,7 +25,7 @@ projects:
 
   - title: CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
     system-name: GAN-CM
-    gif: assets/img/research/gancm-architecture.png
+    gif: assets/img/research/gancm-smri.png
     conference: Master's Thesis, Loyola University Chicago, 2024
     conference-web: https://www.luc.edu/
     status:

@@ -334,7 +334,7 @@ code {
     color: #495057; 
     border-radius: 100%;
     font-size: 1.5rem;
-    margin-right: 0.25rem;
+    margin: 0 0.12rem;
     padding-top: 4px;
     transition: transform 0.3s;
 }
@@ -342,12 +342,14 @@ code {
     transform: scale(1.30);
 }
 .social-icons .social-icon:last-child {
-    margin-right: 0;
+    margin-right: 0.12rem;
 }
 .social-icons {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    gap: 0.15rem;
 }
 
 

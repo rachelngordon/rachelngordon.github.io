@@ -1,4 +1,4 @@
-introduction: Some moments from research, travel, and life outside the terminal.
+introduction: Some moments from research, travel, and life outside the PhD.
 
 pictures:
 
@@ -6,18 +6,18 @@ pictures:
     caption: Attending the Grace Hopper Celebration with fellow UChicago students.
     year: 2024
 
-  - source: assets/img/hanoi.jpg
-    caption: Dinner after presenting at CSoNet in Ha Noi, Viet Nam.
-    year: 2023
-
   - source: assets/img/drjoy.jpg
     caption: Meeting Dr. Joy Buolamwini after reading Unmasking AI.
     year: 2024
 
-  - source: assets/img/graduation.jpg
-    caption: Celebrating graduation from Loyola University Chicago.
-    year: 2022
+  - source: assets/img/hanoi.jpg
+    caption: Dinner after presenting at CSoNet in Ha Noi, Viet Nam.
+    year: 2023
 
   - source: assets/img/tokyo.jpg
     caption: Travel in Tokyo.
     year: 2023
+
+  - source: assets/img/graduation.jpg
+    caption: Celebrating graduation from Loyola University Chicago.
+    year: 2022
