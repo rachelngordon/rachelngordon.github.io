@@ -1,6 +1,6 @@
 # basic information
 name: rachel gordon
-profile-pic: assets/img/gordon.jpg
+profile-pic: assets/img/about.jpg
 # pronunciation: /kʰæŋ/
 # pronunciation-emoji: 🎧
 
@@ -9,16 +9,17 @@ emoji: ✨
 desc-emoji: sparkle
 
 # social links
-scholar: https://scholar.google.com/citations?user=KNGtQP8AAAAJ&hl=en&authuser=1
-# researchgate: https://www.researchgate.net/profile/Khang-Nguyen-133
+scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=KNGtQP8AAAAJ&gmla=ABOlHiwO0b2ojIXNR966uozr0jvPd_E9zypv0dzWug2BDFCqsMLgSeCMIqUAh21gsUNJyivmQFimtYFadvVuMSI8cU_8h6TKlw03CTRj1D9-drHmYw
+# researchgate:
 github: https://github.com/rachelngordon
+linkedin: https://www.linkedin.com/in/rachelngordon/
 # youtube: https://www.youtube.com/@_m.khangg_
 resume: assets/doc/CV.pdf
-projects:             # delete "show" or leave it blank to hide this icon
+projects: show            # delete "show" or leave it blank to hide this icon
 location: 
 # codepen: 
 orcid: https://orcid.org/0000-0002-1427-0146
-contact:             # delete "show" or leave it blank to hide this icon
+contact: show            # delete "show" or leave it blank to hide this icon
 
 # information for contact card
 dept: cs @ uchicago
@@ -29,11 +30,14 @@ website: https://rachelngordon.github.io/
 web-dns: rachelngordon.github.io
 
 # about me
-first-paragraph: I am currently a research assistant with <a href="https://labs.globus.org/" target="_blank" rel="noopener">Globus Labs</a> at the <a href="https://computerscience.uchicago.edu/" target="_blank" rel="noopener">University of Chicago</a> under the guidance of <a href="https://computerscience.uchicago.edu/people/ian-foster/" target="_blank" rel="noopener">Prof. Ian Foster</a> and <a href="https://cs.uchicago.edu/people/kyle-chard/" target="_blank" rel="noopener">Dr. Kyle Chard</a>. I am partially funded by the UChicago Data Science Institute's <a href="https://datascience.uchicago.edu/research/ai-science/" target="_blank" rel="noopener">AI+Science Research Initiative</a> through the Margot and Tom Pritzker Foundation.
-second-paragraph: I earned my MS in Data Science and my BS in Statistics from Loyola University Chicago, where I defended my Master's thesis, "Advancing HDR Brachytherapy Treatment Planning with Enhanced CT-to-MRI Synthesis", with distinction. I am passionate about interdisciplinary collaboration that leverages neural networks for clinical applications aimed at improving patient care. 
-research-introduction: I do research in machine learning for healthcare, mainly focused on applying deep learning methods to enhance and extract meaning from medical images through reconstruction, segmentation, and synthesis of MRI, CT, and other modalities. My current work focuses on developing methods for undersampled MRI reconstruction to improve temporal resolution while preserving spatial fidelity. The ultimate goal of this work is to enable identification of new biomarkers (within the first few seconds of contrast injection) for breast cancer risk prediction, which cannot be adequately resolved with current imaging protocols. 
+first-paragraph: I am a Computer Science PhD student at the <a href="https://www.uchicago.edu/en" target="_blank" rel="noopener">University of Chicago</a>, where I am a member of <a href="https://labs.globus.org/" target="_blank" rel="noopener">Globus Labs</a>, led by <a href="https://cs.uchicago.edu/people/ian-foster/" target="_blank" rel="noopener">Prof. Ian Foster</a> and <a href="https://kylechard.com/" target="_blank" rel="noopener">Dr. Kyle Chard</a>.
+second-paragraph: Before pursuing my PhD, I earned an MS in Data Science from <a href="https://www.luc.edu/" target="_blank" rel="noopener">Loyola University Chicago</a>, where I completed my Master's thesis under the supervision of <a href="https://abuhamad.cs.luc.edu/" target="_blank" rel="noopener">Prof. Mohammed Abuhamad</a>. I defended my work on <a href="https://drive.google.com/file/d/1DuzTBMaGBus1fUfEtWtcX2zE9R2PKcQv/view" target="_blank" rel="noopener">enhanced CT-to-MRI synthesis for high-dose-rate brachytherapy treatment planning</a> with distinction.
+research-introduction: My research focuses on leveraging machine learning to improve the quality and accessibility of healthcare. I develop deep learning models for medical imaging tasks such as image synthesis, reconstruction, segmentation, and enhancement, with applications in CT, MRI, and related modalities.
 
 research-interests:
 
   - field: Computer Vision for Healthcare
     subfields: MRI reconstruction, CT-to-MRI synthesis, tumor segmentation
+
+  - field: Machine Learning for Medicine
+    subfields: image synthesis, reconstruction, enhancement, clinical AI
