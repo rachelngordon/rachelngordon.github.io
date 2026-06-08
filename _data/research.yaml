@@ -10,7 +10,7 @@ projects:
 
   - title: "BRISKNet: Breast Rapid Imaging via Self-Supervised Kinetics"
     system-name:
-    gif: enhancement_scale_curve.png
+    gif: assets/img/research/brisknet.png
     conference: Current research
     conference-web: https://labs.globus.org/
     status:
@@ -25,7 +25,7 @@ projects:
 
   - title: CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
     system-name: GAN-CM
-    gif: assets/img/graduation.jpg
+    gif: assets/img/research/gancm-architecture.png
     conference: Master's Thesis, Loyola University Chicago, 2024
     conference-web: https://www.luc.edu/
     status:
@@ -40,7 +40,7 @@ projects:
 
   - title: Identification and Analysis of the Spread of {Mis}information on Social Media
     system-name:
-    gif: assets/img/hanoi.jpg
+    gif: assets/img/research/misinfo-plot.png
     conference: Computational Data and Social Networks (CSoNet), 2023
     conference-web: https://link.springer.com/conference/csonet
     status:
@@ -55,7 +55,7 @@ projects:
 
   - title: "Expressing Communal Joy on Social Media During Dark Times: Harnessing Natural Language Processing Methods to Characterize Linguistic Affective Data"
     system-name:
-    gif: assets/img/drjoy.jpg
+    gif: assets/img/research/vad.png
     conference: Undergraduate Capstone Project, Loyola University Chicago, 2022
     conference-web: https://www.luc.edu/
     status:
