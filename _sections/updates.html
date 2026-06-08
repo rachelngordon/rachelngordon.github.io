@@ -5,11 +5,14 @@
     <div class="col">
         <h2 clss="mb-5">📜 updates</h2>
         <p></p>
-        <div class="owl-carousel owl-theme">
+        <ul class="updates-list">
             {% for update in site.data.updates.updates %}
-                {% include_relative _libs/updates_widget.html %}
+                <li>
+                    <span class="updates-time">{{ update.time }}</span>
+                    <span class="updates-desc">{{ update.desc }}</span>
+                </li>
             {% endfor %}
-        </div>
+        </ul>
         <p></p>
     </div>
 </div>
