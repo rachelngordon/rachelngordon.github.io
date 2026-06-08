@@ -5,19 +5,19 @@ updates:
   #   time: June 2026
 
   - picture: 
-    desc: I successfully passed my <hightlight>qualifying exam!<hightlight>
+    desc: I successfully passed my <hightlight>qualifying exam!</hightlight>
     time: May 2026
 
   - picture: 
-    desc: I was awarded funding through the UChicago Data Science Institute's <hightlight>AI+Science Research Initiative<hightlight> to support my work on undersampled MRI reconstruction.
+    desc: I was awarded funding through the UChicago Data Science Institute's <hightlight>AI+Science Research Initiative</hightlight> to support my work on undersampled MRI reconstruction.
     time: January 2026
 
   - picture: 
-    desc: My undergraduate student, Edwin Ma, presented his work, "Slice-Aware Attention for Quality Control of Breast MRI Segmentations" at the <hightlight>eScience poster session.<hightlight> 
+    desc: My undergraduate student, Edwin Ma, presented his work, "Slice-Aware Attention for Quality Control of Breast MRI Segmentations" at the <hightlight>eScience poster session.</hightlight>
     time: September 2025
 
   - picture: 
-    desc: I attended the <hightlight>Grace Hopper Celebration<hightlight> in Philadelphia with fellow students from UChicago.
+    desc: I attended the <hightlight>Grace Hopper Celebration</hightlight> in Philadelphia with fellow students from UChicago.
     time: October 2024
 
   - picture: 
@@ -37,11 +37,11 @@ updates:
     time: April 2024
 
   - picture: 
-    desc: I <hightlight>defended my Master's thesis<hightlight> on "CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning" <hightlight>with distinction.<hightlight>
+    desc: I <hightlight>defended my Master's thesis</hightlight> on "CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning" <hightlight>with distinction.</hightlight>
     time: March 2024
 
   - picture: 
-    desc: I presented my work on "Identification and Analysis of the Spread of {Mis}information on Social Media" at the <hightlight>International Conference on Computational Data and Social Networks.<hightlight>
+    desc: I presented my work on "Identification and Analysis of the Spread of {Mis}information on Social Media" at the <hightlight>International Conference on Computational Data and Social Networks.</hightlight>
     time: December 2023
 
   - picture: 

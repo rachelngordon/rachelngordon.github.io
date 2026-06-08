@@ -141,9 +141,12 @@ let isMobile = 'ontouchstart' in window;
 let startEvent = isMobile ? 'touchstart' : 'mousedown';
 let moveEvent = isMobile ? 'touchmove' : 'mousemove';
 let endEvent = isMobile ? 'touchend' : 'mouseup';
+const popupIconContainer = document.getElementById('popupIconContainer');
+const dismissalArea = document.getElementById('dismissalArea');
 
 
 // Capture mouse down (desktop) or touch start (mobile) events
+if (popupIconContainer && dismissalArea) {
 popupIconContainer.addEventListener(startEvent, (e) => {
     e.preventDefault();
     isDragging = true;
@@ -200,11 +203,15 @@ document.addEventListener(endEvent, (e) => {
     isDragging = false;
     setDefaultCatMessage();
 });
+}
 
 
 // Keep the cat saying something while scrolling.
 window.addEventListener('scroll', function() {
-    document.querySelector('.speech-balloon').classList.remove('hidden');
+    const speechBalloon = document.querySelector('.speech-balloon');
+    if (speechBalloon) {
+        speechBalloon.classList.remove('hidden');
+    }
 });
 
 
@@ -212,10 +219,14 @@ window.addEventListener('scroll', function() {
 window.onscroll = function() {progressBar()};
 
 function progressBar() {
+    const progressBarEl = document.getElementById("progressBar");
+    if (!progressBarEl) {
+        return;
+    }
     var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
     var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
     var scrolled = (winScroll / height) * 100;
-    document.getElementById("progressBar").style.width = scrolled + "%";
+    progressBarEl.style.width = scrolled + "%";
 }
 
 
@@ -659,17 +670,23 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 // Automatically update year in footer
-document.getElementById("currentYear").textContent = new Date().getFullYear();
+const currentYearEl = document.getElementById("currentYear");
+if (currentYearEl) {
+    currentYearEl.textContent = new Date().getFullYear();
+}
 
 
 // Canvas for particle moves
 const canvas = document.getElementById('canvas');
-const ctx = canvas.getContext('2d');
+const ctx = canvas ? canvas.getContext('2d') : null;
 const particles = [];
 
 
 // Resize canvas width and height
 function resizeCanvas() {
+    if (!canvas) {
+        return;
+    }
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
 }
@@ -713,13 +730,18 @@ class Particle {
 
 
 // Initialize 101 particles
-for (let i = 0; i < 101; i++) {
-    particles.push(new Particle());
+if (canvas) {
+    for (let i = 0; i < 101; i++) {
+        particles.push(new Particle());
+    }
 }
 
 
 // Make the particles move
 function animate() {
+    if (!ctx) {
+        return;
+    }
     ctx.clearRect(0, 0, canvas.width, canvas.height);
 
     particles.forEach(particle => {
