@@ -21,7 +21,7 @@ projects:
     category: medical-imaging
 
   - title: Slice-Aware Attention for Quality Control of Breast MRI Segmentations
-    system-name: SegQC
+    system-name:
     gif: assets/img/research/segQC.png
     conference: IEEE International Conference on e-Science and Grid Computing, 2025
     conference-web: https://ieeexplore.ieee.org/abstract/document/11181493
