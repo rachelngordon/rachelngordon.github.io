@@ -52,18 +52,3 @@ projects:
     abstract-more: Posts, users, and follower networks were collected from COVID-19-related hashtags, processed, and manually labeled. The analysis tracks misinformation spread during 2021 and studies how information and misinformation communities interact. The model achieved 86% accuracy in classifying tweets as information or misinformation.
     tag: more_misinformation
     category: computational-social-science
-
-  - title: "Expressing Communal Joy on Social Media During Dark Times: Harnessing Natural Language Processing Methods to Characterize Linguistic Affective Data"
-    system-name:
-    gif: assets/img/research/vad.png
-    conference: Undergraduate Capstone Project, Loyola University Chicago, 2022
-    conference-web: https://www.luc.edu/
-    status:
-    authors: <u>Rachel Gordon</u>, Corinne Steuk, Mohammed Abuhamad, Swarnali Banerjee, Rebecca L. Silton.
-    pdf:
-    code: https://github.com/rachelngordon/Joy-Project
-    slides:
-    abstract-less: This project uses natural language processing to study how joy appears in Chicago-area tweets from September 2019 through January 2022.
-    abstract-more: The analysis explores how expressions of joy changed around major events and identifies topics and contexts connected to communal positive emotion. The results suggest that joy is often experienced collectively through shared identities, experiences, and goals.
-    tag: more_joy
-    category: computational-social-science
