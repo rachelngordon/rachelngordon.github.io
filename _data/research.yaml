@@ -3,9 +3,6 @@ categories:
   - data-filter: medical-imaging
     category-name: medical imaging
 
-  - data-filter: computational-social-science
-    category-name: computational social science
-
 projects:
 
   - title: "BRISKNet: Breast Rapid Imaging via Self-Supervised Kinetics"
