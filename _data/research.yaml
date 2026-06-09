@@ -23,6 +23,21 @@ projects:
     tag: more_brisknet
     category: medical-imaging
 
+  - title: Slice-Aware Attention for Quality Control of Breast MRI Segmentations
+    system-name: SegQC
+    gif: assets/img/research/segQC.png
+    conference: IEEE International Conference on e-Science and Grid Computing, 2025
+    conference-web: https://ieeexplore.ieee.org/abstract/document/11181493
+    status:
+    authors: Edwin Ma, <u>Rachel Gordon</u>, Anna Woodard, Ian Foster, Kyle Chard.
+    pdf: https://ieeexplore.ieee.org/abstract/document/11181493
+    code:
+    slides:
+    abstract-less: Quality control (QC) is essential for ensuring the reliability of automated tumor segmentations in breast magnetic resonance imaging (MRI), which are increasingly used in both clinical and research workflows. Manual QC by experts is subjective, time-consuming, and unscalable, highlighting the need for automated solutions.
+    abstract-more: In this work, we propose a 2D convolutional neural network (CNN) with attention-based slice aggregation to classify the quality of tumor segmentations in breast MRI. Leveraging the large-scale, expert-annotated MAMA-MIA dataset, our method processes 2D slices as 2-channel inputs (image and segmentation) and learns to weight their contribution using an attention mechanism for volume-level classification. Our best-performing configuration (attention + augmentation) achieved 64% accuracy, 0.58 F1, and 0.67 AUC, outperforming other settings. These findings show that augmentation and attention are complementary; augmentation increases slice-level diversity, while attention helps identify informative slices among mostly uninformative ones. While performance was moderate, the results establish a baseline for scalable QC in breast MRI, with considerable potential for improvement through enhanced architectures, richer augmentations, and integration with 3D context.
+    tag: more_segqc
+    category: medical-imaging
+
   - title: CT-to-MRI Synthesis for High-dose-rate Brachytherapy Treatment Planning
     system-name: GAN-CM
     gif: assets/img/research/gancm-smri.png
@@ -36,21 +51,6 @@ projects:
     abstract-less: High-dose-rate (HDR) brachytherapy is a radiation treatment modality that places radioactive sources directly in cancerous regions. Radiation treatment planning for HDR prostate brachytherapy utilizes both CT and MRI to visualize the path of the radioactive source and the prostate gland, respectively.
     abstract-more: This work proposes GAN-CM, a conditional CT-to-MRI translation method based on generative adversarial networks. The generator incorporates semantic masks from the domain image to better capture anatomical detail and tissue characteristics in CT scans, improving MRI synthesis for clinically paired prostate cancer treatment planning data.
     tag: more_gancm
-    category: medical-imaging
-
-  - title: Slice-Aware Attention for Quality Control of Breast MRI Segmentations
-    system-name: SegQC
-    gif: assets/img/research/segQC.png
-    conference: IEEE International Conference on e-Science and Grid Computing
-    conference-web: https://ieeexplore.ieee.org/abstract/document/11181493
-    status:
-    authors: Edwin Ma, <u>Rachel Gordon</u>, Anna Woodard, Ian Foster, Kyle Chard.
-    pdf: https://ieeexplore.ieee.org/abstract/document/11181493
-    code:
-    slides:
-    abstract-less: This work presents a slice-aware attention approach for quality control of breast MRI segmentations.
-    abstract-more:
-    tag:
     category: medical-imaging
 
   - title: Identification and Analysis of the Spread of {Mis}information on Social Media
