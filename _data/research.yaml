@@ -38,6 +38,21 @@ projects:
     tag: more_gancm
     category: medical-imaging
 
+  - title: Slice-Aware Attention for Quality Control of Breast MRI Segmentations
+    system-name: SegQC
+    gif: assets/img/research/segQC.png
+    conference: IEEE International Conference on e-Science and Grid Computing
+    conference-web: https://ieeexplore.ieee.org/abstract/document/11181493
+    status:
+    authors: Edwin Ma, <u>Rachel Gordon</u>, Anna Woodard, Ian Foster, Kyle Chard.
+    pdf: https://ieeexplore.ieee.org/abstract/document/11181493
+    code:
+    slides:
+    abstract-less: This work presents a slice-aware attention approach for quality control of breast MRI segmentations.
+    abstract-more:
+    tag:
+    category: medical-imaging
+
   - title: Identification and Analysis of the Spread of {Mis}information on Social Media
     system-name:
     gif: assets/img/research/misinfo-plot.png
